@@ -1,0 +1,304 @@
+[2026-03-30 09:16:56] System Started
+[2026-03-30 09:17:01] System Started
+[2026-03-30 09:17:03] Login Selected
+[2026-03-30 09:17:10] Users Read
+[2026-03-30 09:17:10] Login Success - shumbul (staff)
+[2026-03-30 09:17:10] Login Success - shumbul
+[2026-03-30 09:17:10] Staff Dashboard Opened
+[2026-03-30 09:17:10] Staff Dashboard Opened
+[2026-03-30 09:17:12] Staff Clicked View Menu
+[2026-03-30 09:17:12] View Menu Opened
+[2026-03-30 09:17:12] Menu Read
+[2026-03-30 09:17:12] Menu Viewed Successfully
+[2026-03-30 09:17:14] Staff Clicked Take Order
+[2026-03-30 09:17:14] Menu Read
+[2026-03-30 09:17:27] Order Added - spring roll Qty 1 full
+[2026-03-30 09:17:29] Orders Read
+[2026-03-30 09:17:29] Orders Saved
+[2026-03-30 09:17:29] Order Added
+[2026-03-30 09:17:29] Order Saved Successfully
+[2026-03-30 09:17:32] Staff Clicked View Orders
+[2026-03-30 09:17:32] Orders Read
+[2026-03-30 09:17:32] View Orders Opened
+[2026-03-30 09:17:32] Orders Viewed Successfully
+[2026-03-30 09:17:37] Staff Clicked Table Booking
+[2026-03-30 09:17:42] Table Booked - Table 3 Name shajiya People 4
+[2026-03-30 09:17:44] Staff Clicked Generate Bill
+[2026-03-30 09:17:44] Orders Read
+[2026-03-30 09:17:58] Bill Generated - Bill No 2662 Table 3 Total ₹184.0 Payment Cash
+[2026-03-30 09:17:58] Bills Read
+[2026-03-30 09:17:58] Bills Saved
+[2026-03-30 09:17:58] Bill Added - 2662
+[2026-03-30 09:17:58] Bill Saved - 2662
+[2026-03-30 09:19:14] Staff Entered Invalid Choice
+[2026-03-30 09:19:18] System Started
+[2026-03-30 09:19:19] Login Selected
+[2026-03-30 09:19:26] Users Read
+[2026-03-30 09:19:26] Login Success - shumbul (staff)
+[2026-03-30 09:19:26] Login Success - shumbul
+[2026-03-30 09:19:26] Staff Dashboard Opened
+[2026-03-30 09:19:26] Staff Dashboard Opened
+[2026-03-30 09:19:27] Staff Clicked View Menu
+[2026-03-30 09:19:27] View Menu Opened
+[2026-03-30 09:19:27] Menu Read
+[2026-03-30 09:19:27] Menu Viewed Successfully
+[2026-03-30 09:19:28] Staff Clicked Take Order
+[2026-03-30 09:19:28] Menu Read
+[2026-03-30 09:19:36] Order Added - Schezwan Rice Qty 1 full
+[2026-03-30 09:19:38] Orders Read
+[2026-03-30 09:19:38] Orders Saved
+[2026-03-30 09:19:38] Order Added
+[2026-03-30 09:19:38] Order Saved Successfully
+[2026-03-30 09:19:41] Staff Clicked View Orders
+[2026-03-30 09:19:41] Orders Read
+[2026-03-30 09:19:41] View Orders Opened
+[2026-03-30 09:19:41] Orders Viewed Successfully
+[2026-03-30 09:19:46] Staff Clicked Table Booking
+[2026-03-30 09:19:56] Table Booked - Table 2 Name shajiya People 4
+[2026-03-30 09:19:58] Staff Clicked Generate Bill
+[2026-03-30 09:19:58] Orders Read
+[2026-03-30 09:20:12] Bill Generated - Bill No 8030 Table 2 Total ₹230.0 Payment Cash
+[2026-03-30 09:20:12] Bills Read
+[2026-03-30 09:20:12] Bills Saved
+[2026-03-30 09:20:12] Bill Added - 8030
+[2026-03-30 09:20:12] Bill Saved - 8030
+[2026-03-30 09:20:14] Staff Logout
+[2026-03-30 09:20:17] Login Selected
+[2026-03-30 09:20:22] Users Read
+[2026-03-30 09:20:22] Login Success - dua (admin)
+[2026-03-30 09:20:22] Login Success - dua
+[2026-03-30 09:20:22] Admin Dashboard Opened
+[2026-03-30 09:20:22] Admin Dashboard Opened
+[2026-03-30 09:20:23] Admin Clicked View Menu
+[2026-03-30 09:20:23] View Menu Opened
+[2026-03-30 09:20:23] Menu Read
+[2026-03-30 09:20:23] Menu Viewed Successfully
+[2026-03-30 09:20:26] Admin Clicked Add Item
+[2026-03-30 09:20:26] Add Item Opened
+[2026-03-30 09:20:26] Menu Read
+[2026-03-30 09:22:03] System Started
+[2026-03-30 09:22:09] Login Selected
+[2026-03-30 09:22:14] Users Read
+[2026-03-30 09:22:14] Login Success - dua (admin)
+[2026-03-30 09:22:14] Login Success - dua
+[2026-03-30 09:22:14] Admin Dashboard Opened
+[2026-03-30 09:22:14] Admin Dashboard Opened
+[2026-03-30 09:22:15] Admin Clicked View Menu
+[2026-03-30 09:22:15] View Menu Opened
+[2026-03-30 09:22:15] Menu Read
+[2026-03-30 09:22:15] Menu Viewed Successfully
+[2026-03-30 09:22:17] Admin Clicked Add Item
+[2026-03-30 09:22:17] Add Item Opened
+[2026-03-30 09:22:17] Menu Read
+[2026-03-30 09:23:13] Menu Saved
+[2026-03-30 09:23:13] Item Added - chawmin ID 66 Category CHINES
+[2026-03-30 09:23:16] Admin Clicked Update Item
+[2026-03-30 09:23:16] Update Item Opened
+[2026-03-30 09:23:16] Menu Read
+[2026-03-30 09:23:22] Item Found For Update - ID 66
+[2026-03-30 09:23:37] Item Updated - ID 66 Name nodles
+[2026-03-30 09:23:37] Menu Saved
+[2026-03-30 09:23:44] Admin Clicked Delete Item
+[2026-03-30 09:23:44] Delete Item Opened
+[2026-03-30 09:23:44] Menu Read
+[2026-03-30 09:23:55] Item Deleted - ID 66 Category CHINES
+[2026-03-30 09:23:55] Menu Saved
+[2026-03-30 09:24:00] Admin Clicked View Orders
+[2026-03-30 09:24:00] Orders Read
+[2026-03-30 09:24:00] View Orders Opened
+[2026-03-30 09:24:00] Orders Viewed Successfully
+[2026-03-30 09:24:05] Admin Clicked Sales Report
+[2026-03-30 09:24:05] Sales Report Opened
+[2026-03-30 09:24:05] Bills Read
+[2026-03-30 09:24:05] Sales Report Generated - Total ₹828.0
+[2026-03-30 09:24:23] Admin Logout
+[2026-03-30 09:24:26] Signup Selected
+[2026-03-30 09:24:26] Signup Opened
+[2026-03-30 09:24:35] Signup Failed - Invalid Email
+[2026-03-30 09:24:42] Login Selected
+[2026-03-30 09:24:51] Users Read
+[2026-03-30 09:24:51] Login Failed - dua123
+[2026-03-30 09:24:51] Login Failed
+[2026-03-30 09:25:44] System Exit
+[2026-03-30 11:33:10] System Started
+[2026-03-30 11:33:13] Signup Selected
+[2026-03-30 11:33:13] Signup Opened
+[2026-03-30 11:34:41] System Started
+[2026-03-30 11:34:42] Signup Selected
+[2026-03-30 11:34:42] Signup Opened
+[2026-03-30 11:35:13] System Started
+[2026-03-30 11:35:17] Signup Selected
+[2026-03-30 11:35:17] Signup Opened
+[2026-03-30 12:28:00] System Started
+[2026-03-30 12:28:03] Signup Selected
+[2026-03-30 12:28:03] Signup Opened
+[2026-03-30 12:28:24] Users Read
+[2026-03-30 12:28:31] Signup Success - muskan (musakn@gmail.com)
+[2026-03-30 12:28:31] Users Read
+[2026-03-30 12:28:31] Users Saved
+[2026-03-30 12:28:31] User Added - muskan
+[2026-03-30 12:28:31] Signup Success - muskan
+[2026-03-30 12:28:35] Login Selected
+[2026-03-30 12:28:51] Users Read
+[2026-03-30 12:28:51] Login Failed - muskan
+[2026-03-30 12:28:51] Login Failed
+[2026-03-30 12:29:10] Login Selected
+[2026-03-30 12:29:20] Users Read
+[2026-03-30 12:29:20] Login Failed - muskan
+[2026-03-30 12:29:20] Login Failed
+[2026-03-30 12:29:35] Login Selected
+[2026-03-30 12:29:49] Users Read
+[2026-03-30 12:29:49] Login Success - muskan (staff)
+[2026-03-30 12:29:49] Login Success - muskan
+[2026-03-30 12:29:49] Staff Dashboard Opened
+[2026-03-30 12:29:49] Staff Dashboard Opened
+[2026-03-30 12:29:59] Staff Clicked View Menu
+[2026-03-30 12:29:59] View Menu Opened
+[2026-03-30 12:29:59] Menu Read
+[2026-03-30 12:29:59] Menu Viewed Successfully
+[2026-03-30 12:30:20] Staff Clicked Take Order
+[2026-03-30 12:30:20] Menu Read
+[2026-03-30 12:30:37] Order Added - spring roll Qty 1 half
+[2026-03-30 12:30:42] Orders Read
+[2026-03-30 12:30:42] Orders Saved
+[2026-03-30 12:30:42] Order Added
+[2026-03-30 12:30:42] Order Saved Successfully
+[2026-03-30 12:30:47] Staff Clicked View Orders
+[2026-03-30 12:30:47] Orders Read
+[2026-03-30 12:30:47] View Orders Opened
+[2026-03-30 12:30:47] Orders Viewed Successfully
+[2026-03-30 12:30:57] Staff Clicked Table Booking
+[2026-03-30 12:31:15] Table Booked - Table 2 Name muskan People 6
+[2026-03-30 12:31:19] Staff Clicked Generate Bill
+[2026-03-30 12:31:19] Orders Read
+[2026-03-30 12:31:30] Bill Generated - Bill No 3526 Table 2 Total ₹92.0 Payment Cash
+[2026-03-30 12:31:30] Bills Read
+[2026-03-30 12:31:30] Bills Saved
+[2026-03-30 12:31:30] Bill Added - 3526
+[2026-03-30 12:31:30] Bill Saved - 3526
+[2026-03-30 12:31:49] Staff Logout
+[2026-03-30 12:31:51] System Exit
+[2026-03-30 12:31:51] System Started
+[2026-03-30 12:31:55] System Exit
+[2026-03-30 20:43:28] System Started
+[2026-03-31 07:58:22] System Started
+[2026-03-31 07:59:11] System Started
+[2026-03-31 07:59:17] Signup Selected
+[2026-03-31 07:59:17] Signup Opened
+[2026-03-31 08:04:30] System Started
+[2026-03-31 08:04:32] Signup Selected
+[2026-03-31 08:04:32] Signup Opened
+[2026-03-31 08:09:59] System Started
+[2026-03-31 08:10:01] Signup Selected
+[2026-03-31 08:10:01] Signup Opened
+[2026-03-31 08:10:17] Users Read
+[2026-03-31 08:10:33] Signup Success - inaya (inaya@gmail.com)
+[2026-03-31 08:10:33] Users Read
+[2026-03-31 08:10:33] Users Saved
+[2026-03-31 08:10:33] User Added - inaya
+[2026-03-31 08:10:33] Signup Success - inaya
+[2026-03-31 08:10:33] Invalid Choice Entered
+[2026-03-31 08:10:54] Signup Selected
+[2026-03-31 08:10:54] Signup Opened
+[2026-03-31 08:11:04] Users Read
+[2026-03-31 08:11:04] Signup Failed - Email Exists inaya@gmail.com
+[2026-03-31 08:11:04] Invalid Choice Entered
+[2026-03-31 08:15:18] System Started
+[2026-03-31 08:15:20] Signup Selected
+[2026-03-31 08:15:20] Signup Opened
+[2026-03-31 08:15:33] Users Read
+[2026-03-31 08:15:36] Signup Success - noor (noor@gmail.com)
+[2026-03-31 08:15:36] Users Read
+[2026-03-31 08:15:36] Users Saved
+[2026-03-31 08:15:36] User Added - noor
+[2026-03-31 08:15:36] Signup Success - noor
+[2026-03-31 08:15:38] Login Selected
+[2026-03-31 08:15:44] Users Read
+[2026-03-31 08:18:43] System Started
+[2026-03-31 08:18:48] Signup Selected
+[2026-03-31 08:18:48] Signup Opened
+[2026-03-31 08:18:59] Users Read
+[2026-03-31 08:19:03] Signup Success - shajiya (shajiya@gmail.com)
+[2026-03-31 08:19:03] Users Read
+[2026-03-31 08:19:03] Users Saved
+[2026-03-31 08:19:03] User Added - shajiya
+[2026-03-31 08:19:03] Signup Success - shajiya
+[2026-03-31 08:19:05] Login Selected
+[2026-03-31 08:19:14] Users Read
+[2026-03-31 08:19:14] Login Success - shajiya (staff)
+[2026-03-31 08:19:14] Login Success - shajiya
+[2026-03-31 08:19:14] Staff Dashboard Opened
+[2026-03-31 08:19:14] Staff Dashboard Opened
+[2026-03-31 08:19:15] Staff Clicked View Menu
+[2026-03-31 08:19:15] View Menu Opened
+[2026-03-31 08:19:15] Menu Read
+[2026-03-31 08:19:15] Menu Viewed Successfully
+[2026-03-31 08:19:22] Staff Clicked Take Order
+[2026-03-31 08:19:22] Menu Read
+[2026-03-31 08:19:33] Order Added - Hakka Noodles Qty 2 full
+[2026-03-31 08:19:35] Orders Read
+[2026-03-31 08:19:35] Orders Saved
+[2026-03-31 08:19:35] Order Added
+[2026-03-31 08:19:35] Order Saved Successfully
+[2026-03-31 08:19:38] Staff Clicked View Orders
+[2026-03-31 08:19:38] Orders Read
+[2026-03-31 08:19:38] View Orders Opened
+[2026-03-31 08:19:38] Orders Viewed Successfully
+[2026-03-31 08:19:44] Staff Clicked Table Booking
+[2026-03-31 08:19:50] Table Booked - Table 2 Name shajiya People 4
+[2026-03-31 08:19:53] Staff Clicked Generate Bill
+[2026-03-31 08:19:53] Orders Read
+[2026-03-31 08:20:02] Bill Generated - Bill No 4590 Table 2 Total ₹414.0 Payment UPI
+[2026-03-31 08:20:02] Bills Read
+[2026-03-31 08:20:02] Bills Saved
+[2026-03-31 08:20:02] Bill Added - 4590
+[2026-03-31 08:20:02] Bill Saved - 4590
+[2026-03-31 08:20:09] Staff Logout
+[2026-03-31 08:20:21] System Exit
+[2026-03-31 08:20:37] System Started
+[2026-03-31 08:20:40] Login Selected
+[2026-03-31 08:20:46] Users Read
+[2026-03-31 08:20:46] Login Success - shajiya (admin)
+[2026-03-31 08:20:46] Login Success - shajiya
+[2026-03-31 08:20:46] Admin Dashboard Opened
+[2026-03-31 08:20:46] Admin Dashboard Opened
+[2026-03-31 08:20:48] Admin Clicked View Menu
+[2026-03-31 08:20:48] View Menu Opened
+[2026-03-31 08:20:48] Menu Read
+[2026-03-31 08:20:48] Menu Viewed Successfully
+[2026-03-31 08:20:49] Admin Clicked Add Item
+[2026-03-31 08:20:49] Add Item Opened
+[2026-03-31 08:20:49] Menu Read
+[2026-03-31 08:21:43] Menu Saved
+[2026-03-31 08:21:43] Item Added - noodle ID 66 Category CHINES
+[2026-03-31 08:21:56] Admin Clicked View Menu
+[2026-03-31 08:21:56] View Menu Opened
+[2026-03-31 08:21:56] Menu Read
+[2026-03-31 08:21:56] Menu Viewed Successfully
+[2026-03-31 08:22:05] Admin Clicked Add Item
+[2026-03-31 08:22:05] Add Item Opened
+[2026-03-31 08:22:05] Menu Read
+[2026-03-31 08:22:47] Menu Saved
+[2026-03-31 08:22:47] Item Added - chomin ID 67 Category CHINES
+[2026-03-31 08:22:51] Admin Clicked Update Item
+[2026-03-31 08:22:51] Update Item Opened
+[2026-03-31 08:22:51] Menu Read
+[2026-03-31 08:22:57] Item Found For Update - ID 67
+[2026-03-31 08:23:13] Item Updated - ID 67 Name noodel
+[2026-03-31 08:23:13] Menu Saved
+[2026-03-31 08:23:16] Admin Clicked Delete Item
+[2026-03-31 08:23:16] Delete Item Opened
+[2026-03-31 08:23:16] Menu Read
+[2026-03-31 08:23:27] Item Deleted - ID 67 Category CHINES
+[2026-03-31 08:23:27] Menu Saved
+[2026-03-31 08:23:29] Admin Clicked Delete Item
+[2026-03-31 08:23:29] Delete Item Opened
+[2026-03-31 08:23:29] Menu Read
+[2026-03-31 08:23:34] Item Deleted - ID 66 Category CHINES
+[2026-03-31 08:23:34] Menu Saved
+[2026-03-31 08:23:36] Admin Clicked Sales Report
+[2026-03-31 08:23:36] Sales Report Opened
+[2026-03-31 08:23:36] Bills Read
+[2026-03-31 08:23:36] Sales Report Generated - Total ₹1334.0
+[2026-03-31 08:23:43] Admin Logout
+[2026-03-31 08:23:45] System Exit

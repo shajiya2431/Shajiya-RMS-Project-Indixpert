@@ -1,0 +1,29 @@
+[
+    [
+        {
+            "name": "Schezwan Rice",
+            "qty": 1,
+            "size": "full",
+            "price": 200,
+            "total": 200
+        }
+    ],
+    [
+        {
+            "name": "spring roll",
+            "qty": 1,
+            "size": "half",
+            "price": 80,
+            "total": 80
+        }
+    ],
+    [
+        {
+            "name": "Hakka Noodles",
+            "qty": 2,
+            "size": "full",
+            "price": 180,
+            "total": 360
+        }
+    ]
+]

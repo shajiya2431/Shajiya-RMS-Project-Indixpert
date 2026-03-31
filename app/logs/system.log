@@ -1,0 +1,37 @@
+[30-03-2026 09:12:55] System Started
+[30-03-2026 09:13:02] Signup Selected
+[30-03-2026 09:13:02] Signup Opened
+[30-03-2026 09:13:17] Users Read
+[30-03-2026 09:13:22] Signup Success - shumbul (shumbul@gmail.com)
+[30-03-2026 09:13:22] Users Read
+[30-03-2026 09:13:22] Users Saved
+[30-03-2026 09:13:22] User Added - shumbul
+[30-03-2026 09:13:22] Signup Success - shumbul
+[30-03-2026 09:13:24] Login Selected
+[30-03-2026 09:13:33] Users Read
+[30-03-2026 09:13:33] Login Success - shumbul (staff)
+[30-03-2026 09:13:33] Login Success - shumbul
+[30-03-2026 09:13:33] Staff Dashboard Opened
+[30-03-2026 09:13:33] Staff Dashboard Opened
+[30-03-2026 09:13:35] Staff Clicked View Menu
+[30-03-2026 09:13:35] View Menu Opened
+[30-03-2026 09:13:35] Menu Read
+[30-03-2026 09:13:35] Menu Viewed Successfully
+[30-03-2026 09:13:38] Staff Clicked Take Order
+[30-03-2026 09:13:38] Menu Read
+[30-03-2026 09:13:41] Invalid Item ID entered
+[30-03-2026 09:13:54] Order Added - Chilli Garlic Noodles Qty 1 full
+[30-03-2026 09:13:57] Orders Read
+[30-03-2026 09:13:57] Orders Saved
+[30-03-2026 09:13:57] Order Added
+[30-03-2026 09:13:57] Order Saved Successfully
+[30-03-2026 09:13:59] Staff Clicked View Orders
+[30-03-2026 09:13:59] Orders Read
+[30-03-2026 09:13:59] View Orders Opened
+[30-03-2026 09:13:59] Orders Viewed Successfully
+[30-03-2026 09:14:19] Staff Clicked View Orders
+[30-03-2026 09:14:19] Orders Read
+[30-03-2026 09:14:19] View Orders Opened
+[30-03-2026 09:14:19] Orders Viewed Successfully
+[30-03-2026 09:14:27] Staff Clicked Generate Bill
+[30-03-2026 09:14:27] Orders Read

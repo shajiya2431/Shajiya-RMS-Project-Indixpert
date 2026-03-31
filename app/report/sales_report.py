@@ -18,7 +18,7 @@ class SalesReport:
             return
 
         print("\n" + "="*70)
-        print("📊 SALES REPORT")
+        print("SALES REPORT")
         print("="*70)
 
         print(f"{'Bill No':<10}{'Table':<8}{'Date':<12}{'Payment':<10}{'Total':<10}")
