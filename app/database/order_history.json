@@ -1,29 +1,27 @@
 [
     [
         {
-            "name": "Schezwan Rice",
-            "qty": 1,
-            "size": "full",
-            "price": 200,
-            "total": 200
-        }
-    ],
-    [
-        {
-            "name": "spring roll",
-            "qty": 1,
-            "size": "half",
-            "price": 80,
-            "total": 80
-        }
-    ],
-    [
-        {
-            "name": "Hakka Noodles",
+            "name": "Jeera Rice",
             "qty": 2,
             "size": "full",
-            "price": 180,
-            "total": 360
+            "price": 150,
+            "total": 300
+        },
+        {
+            "name": "Mutton Biryani",
+            "qty": 3,
+            "size": "full",
+            "price": 350,
+            "total": 1050
+        }
+    ],
+    [
+        {
+            "name": "Jeera Rice",
+            "qty": 2,
+            "size": "full",
+            "price": 150,
+            "total": 300
         }
     ]
 ]

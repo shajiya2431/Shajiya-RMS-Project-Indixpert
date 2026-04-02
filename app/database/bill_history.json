@@ -1,42 +1,18 @@
 [
     {
-        "bill_no": 7996,
-        "table": "4",
-        "date": "29-03-2026",
-        "time": "18:30:17",
-        "total": 414.0,
-        "payment": "Cash"
-    },
-    {
-        "bill_no": 2662,
-        "table": "3",
-        "date": "30-03-2026",
-        "time": "09:17:47",
-        "total": 184.0,
-        "payment": "Cash"
-    },
-    {
-        "bill_no": 8030,
+        "bill_no": 6034,
         "table": "2",
-        "date": "30-03-2026",
-        "time": "09:20:00",
-        "total": 230.0,
+        "date": "02-04-2026",
+        "time": "09:52:11",
+        "total": 1552.5,
         "payment": "Cash"
     },
     {
-        "bill_no": 3526,
+        "bill_no": 9914,
         "table": "2",
-        "date": "30-03-2026",
-        "time": "12:31:21",
-        "total": 92.0,
+        "date": "02-04-2026",
+        "time": "11:39:28",
+        "total": 345.0,
         "payment": "Cash"
-    },
-    {
-        "bill_no": 4590,
-        "table": "2",
-        "date": "31-03-2026",
-        "time": "08:19:55",
-        "total": 414.0,
-        "payment": "UPI"
     }
 ]

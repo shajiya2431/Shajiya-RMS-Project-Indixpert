@@ -20,7 +20,7 @@ class ViewOrders:
         Logger.log("View Orders Opened")
 
         print("\n" + "="*60)
-        print("📋 ============= ORDER LIST ============= 📋")
+        print(" ============= ORDER LIST ============= ")
         print("="*60)
 
         order_no = 1

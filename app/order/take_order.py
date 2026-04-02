@@ -30,6 +30,13 @@ class TakeOrder:
 
             try:
                 qty = int(input("Enter Quantity: "))
+
+                # Quantity validation
+                if qty <= 0 or qty > 20:
+                    print("Invalid Quantity (1-20 allowed)")
+                    Logger.log("Invalid Quantity Range")
+                    continue
+
             except:
                 print("Invalid Quantity")
                 Logger.log("Invalid Quantity entered")
@@ -44,7 +51,6 @@ class TakeOrder:
 
                     if item["id"] == item_id:
 
-                        
                         if item["type"] == "double":
 
                             if size not in ["half", "full"]:
@@ -54,7 +60,6 @@ class TakeOrder:
 
                             price = item[size]
 
-                        
                         else:
                             price = item["price"]
                             size = "single"
@@ -71,7 +76,6 @@ class TakeOrder:
 
                         print("Order Added")
 
-                        
                         Logger.log(f"Order Added - {item['name']} Qty {qty} {size}")
 
                         found = True
@@ -80,12 +84,10 @@ class TakeOrder:
                 print("Item not found")
                 Logger.log(f"Item Not Found - ID {item_id}")
 
-        
         if orders:
             self.db.add_order(orders)
             print("Order Saved Successfully")
 
-            # Log save
             Logger.log("Order Saved Successfully")
 
         else:

@@ -20,7 +20,6 @@ class Login:
         password = getpass.getpass("Enter password: ")
 
         if password == "":
-            print("Password required")
             Logger.log("Login Faild - Empty Password")
             return None 
         

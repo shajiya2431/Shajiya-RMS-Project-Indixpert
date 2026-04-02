@@ -1,69 +1,193 @@
+
+
+
+
+
+
+
+
+
+# from datetime import datetime, timedelta
+# from app.logs.logger import Logger
+
+
+# class TableBooking:
+
+#     def __init__(self, db):
+#         self.db = db
+
+#     def book(self):
+
+#         print("\n===== TABLE BOOKING =====")
+
+#         # Restaurant me 10 tables assume kar rahe
+#         total_tables = [1,2,3,4,5,6,7,8,9,10]
+
+#         booked_tables = self.db.read_tables()
+
+#         print("\n===== TABLE STATUS =====")
+
+#         for table in total_tables:
+
+#             booked = False
+
+#             for b in booked_tables:
+#                 if b["table_no"] == table:
+#                     booked = True
+#                     print(f"Table {table} : Booked ({b['start']} - {b['end']})")
+
+#             if not booked:
+#                 print(f"Table {table} : Available")
+
+#         try:
+#             table_no = int(input("\nEnter Table Number: "))
+#         except:
+#             print("Invalid Table Number")
+#             return
+
+#         # Check already booked
+#         for table in booked_tables:
+#             if table["table_no"] == table_no:
+#                 print("Table Already Booked")
+#                 Logger.log("Table Booking Failed - Already booked")
+#                 return
+
+#         # Booking Details
+#         customer = input("Customer Name: ")
+#         persons = input("No. of Persons: ")
+#         phone = input("Phone Number: ")
+
+#         start_time = input("Start Time (HH:MM): ")
+#         duration = input("Duration (Hours): ")
+
+#         try:
+#             start = datetime.strptime(start_time, "%H:%M")
+#             end = start + timedelta(hours=int(duration))
+#         except:
+#             print("Invalid Time Format")
+#             return
+
+#         table_data = {
+#             "table_no": table_no,
+#             "customer": customer,
+#             "persons": persons,
+#             "phone": phone,
+#             "start": start.strftime("%H:%M"),
+#             "end": end.strftime("%H:%M")
+#         }
+
+#         self.db.add_table(table_data)
+
+#         print("\nTable Booked Successfully")
+#         print(f"Table : {table_no}")
+#         print(f"Customer : {customer}")
+#         print(f"Persons : {persons}")
+#         print(f"Phone : {phone}")
+#         print(f"Time : {start.strftime('%H:%M')} - {end.strftime('%H:%M')}")
+
+#         Logger.log(f"Table Booked - {table_no}")
+
+
+
+
+
+
+
+
+
+
+from datetime import datetime, timedelta
 from app.logs.logger import Logger
+
 
 class TableBooking:
 
-    tables = {}
-
-    def __init__(self):
-        pass
+    def __init__(self, db):
+        self.db = db
 
     def book(self):
 
-        table_no = input("Enter Table Number: ")
+        print("\n===== TABLE BOOKING =====")
 
-        
-        if table_no == "":
-            print("Table number required")
-            Logger.log("Table Booking Failed - Empty Table Number")
-            return
-
-        if table_no in TableBooking.tables:
-            print("Table Already Booked")
-            Logger.log(f"Table Booking Failed - Table {table_no} Already Booked")
-            return
-
-        name = input("Enter Customer Name: ")
-
-        if name == "":
-            print("Customer name required")
-            Logger.log("Table Booking Failed - Empty Name")
-            return
-
-        people = input("Number of People: ")
-
-        if not people.isdigit():
-            print("People must be number")
-            Logger.log("Table Booking Failed - Invalid People")
-            return
-
-        TableBooking.tables[table_no] = {
-            "name": name,
-            "people": people
+        # Table with seat capacity
+        tables = {
+            1: 2,
+            2: 4,
+            3: 4,
+            4: 6,
+            5: 6,
+            6: 8,
+            7: 2,
+            8: 4,
+            9: 6,
+            10: 8
         }
 
-        print("Table Booked Successfully")
+        booked_tables = self.db.read_tables()
 
-        Logger.log(f"Table Booked - Table {table_no} Name {name} People {people}")
+        print("\n===== TABLE STATUS =====")
 
+        for table, seats in tables.items():
 
-    def view(self):
+            booked = False
 
-        if not TableBooking.tables:
-            print("No Table Booked")
-            Logger.log("View Table - No Booking Found")
+            for b in booked_tables:
+                if b["table_no"] == table:
+                    booked = True
+                    print(f"Table {table} ({seats} seats) : Booked {b['start']} - {b['end']}")
+
+            if not booked:
+                print(f"Table {table} ({seats} seats) : Available")
+
+        try:
+            table_no = int(input("\nSelect Table Number: "))
+        except:
+            print("Invalid Table")
             return
 
-        Logger.log("View Table Booking Opened")
+        # Check booked
+        for table in booked_tables:
+            if table["table_no"] == table_no:
+                print("Table Already Booked")
+                return
 
-        print("\n")
-        print("=" * 50)
-        print("🍽️ TABLE BOOKINGS")
-        print("=" * 50)
+        # Ask seats
+        seats_needed = int(input("How many seats needed: "))
 
-        print(f"{'TABLE':<10}{'NAME':<20}{'PEOPLE':<10}")
-        print("-" * 50)
+        if seats_needed > tables[table_no]:
+            print("Seats not available on this table")
+            return
 
-        for table, info in TableBooking.tables.items():
-            print(f"{table:<10}{info['name']:<20}{info['people']:<10}")
+        # Booking Details
+        customer = input("Customer Name: ")
+        persons = input("No. of Persons: ")
+        phone = input("Phone Number: ")
 
-        Logger.log("Table Booking Viewed")
+        start_time = input("Start Time (HH:MM): ")
+        duration = input("Duration (Hours): ")
+
+        try:
+            start = datetime.strptime(start_time, "%H:%M")
+            end = start + timedelta(hours=int(duration))
+        except:
+            print("Invalid Time Format")
+            return
+
+        data = {
+            "table_no": table_no,
+            "customer": customer,
+            "persons": persons,
+            "phone": phone,
+            "start": start.strftime("%H:%M"),
+            "end": end.strftime("%H:%M")
+        }
+
+        self.db.add_table(data)
+
+        print("\nTable Booked Successfully")
+        print(f"Table : {table_no}")
+        print(f"Seats : {seats_needed}")
+        print(f"Customer : {customer}")
+        print(f"Time : {start.strftime('%H:%M')} - {end.strftime('%H:%M')}")
+
+        Logger.log(f"Table Booked - {table_no}")
