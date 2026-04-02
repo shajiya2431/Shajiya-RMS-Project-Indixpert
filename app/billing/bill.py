@@ -30,7 +30,7 @@ class GenerateBill:
         time = now.strftime("%H:%M:%S")
 
         print("\n" + "="*75)
-        print("🍽️            INVOICE / FINAL BILL             🍽️")
+        print("            INVOICE / FINAL BILL             ")
         print("="*75)
 
         print(f"Bill No    : {bill_no}")

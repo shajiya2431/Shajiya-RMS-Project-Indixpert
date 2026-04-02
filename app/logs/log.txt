@@ -915,3 +915,44 @@
 [2026-04-02 12:05:34] Table Booked - 2
 [2026-04-02 12:05:45] Staff Logout
 [2026-04-02 12:05:47] System Exit
+[2026-04-02 12:10:31] System Started
+[2026-04-02 12:10:33] Login Selected
+[2026-04-02 12:10:39] Users Read
+[2026-04-02 12:10:39] Login Success - shajiya (admin)
+[2026-04-02 12:10:39] Login Success - shajiya
+[2026-04-02 12:10:39] Admin Dashboard Opened
+[2026-04-02 12:10:39] Admin Dashboard Opened
+[2026-04-02 12:10:40] Admin Clicked View Menu
+[2026-04-02 12:10:40] View Menu Opened
+[2026-04-02 12:10:40] Menu Read
+[2026-04-02 12:10:40] Menu Viewed Successfully
+[2026-04-02 12:10:42] Admin Clicked Add Item
+[2026-04-02 12:10:42] Add Item Opened
+[2026-04-02 12:10:42] Menu Read
+[2026-04-02 12:11:10] Menu Saved
+[2026-04-02 12:11:10] Item Added - warp roll ID 66 Category 66
+[2026-04-02 12:11:21] Admin Clicked Update Item
+[2026-04-02 12:11:21] Update Item Opened
+[2026-04-02 12:11:21] Menu Read
+[2026-04-02 12:11:25] Item Found For Update - ID 66
+[2026-04-02 12:11:47] Item Updated - ID 66 Name hot dog
+[2026-04-02 12:11:47] Menu Saved
+[2026-04-02 12:11:51] Admin Clicked View Menu
+[2026-04-02 12:11:51] View Menu Opened
+[2026-04-02 12:11:51] Menu Read
+[2026-04-02 12:11:51] Menu Viewed Successfully
+[2026-04-02 12:12:00] Admin Clicked Delete Item
+[2026-04-02 12:12:00] Delete Item Opened
+[2026-04-02 12:12:00] Menu Read
+[2026-04-02 12:12:04] Item Deleted - ID 66 Category 66
+[2026-04-02 12:12:04] Menu Saved
+[2026-04-02 12:12:06] Admin Clicked View Menu
+[2026-04-02 12:12:06] View Menu Opened
+[2026-04-02 12:12:06] Menu Read
+[2026-04-02 12:12:06] Menu Viewed Successfully
+[2026-04-02 12:12:10] Admin Clicked Sales Report
+[2026-04-02 12:12:10] Sales Report Opened
+[2026-04-02 12:12:10] Bills Read
+[2026-04-02 12:12:10] Sales Report Generated - Total ₹1897.5
+[2026-04-02 12:12:40] Admin Logout
+[2026-04-02 12:12:42] System Exit
