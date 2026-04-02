@@ -1,5 +1,4 @@
 from app.logs.logger import Logger
-from app.logs.logger import Logger
 import getpass
 
 class Login:
