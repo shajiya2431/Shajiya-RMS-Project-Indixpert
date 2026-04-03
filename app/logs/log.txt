@@ -1,0 +1,1032 @@
+[2026-03-30 09:16:56] System Started
+[2026-03-30 09:17:01] System Started
+[2026-03-30 09:17:03] Login Selected
+[2026-03-30 09:17:10] Users Read
+[2026-03-30 09:17:10] Login Success - shumbul (staff)
+[2026-03-30 09:17:10] Login Success - shumbul
+[2026-03-30 09:17:10] Staff Dashboard Opened
+[2026-03-30 09:17:10] Staff Dashboard Opened
+[2026-03-30 09:17:12] Staff Clicked View Menu
+[2026-03-30 09:17:12] View Menu Opened
+[2026-03-30 09:17:12] Menu Read
+[2026-03-30 09:17:12] Menu Viewed Successfully
+[2026-03-30 09:17:14] Staff Clicked Take Order
+[2026-03-30 09:17:14] Menu Read
+[2026-03-30 09:17:27] Order Added - spring roll Qty 1 full
+[2026-03-30 09:17:29] Orders Read
+[2026-03-30 09:17:29] Orders Saved
+[2026-03-30 09:17:29] Order Added
+[2026-03-30 09:17:29] Order Saved Successfully
+[2026-03-30 09:17:32] Staff Clicked View Orders
+[2026-03-30 09:17:32] Orders Read
+[2026-03-30 09:17:32] View Orders Opened
+[2026-03-30 09:17:32] Orders Viewed Successfully
+[2026-03-30 09:17:37] Staff Clicked Table Booking
+[2026-03-30 09:17:42] Table Booked - Table 3 Name shajiya People 4
+[2026-03-30 09:17:44] Staff Clicked Generate Bill
+[2026-03-30 09:17:44] Orders Read
+[2026-03-30 09:17:58] Bill Generated - Bill No 2662 Table 3 Total ₹184.0 Payment Cash
+[2026-03-30 09:17:58] Bills Read
+[2026-03-30 09:17:58] Bills Saved
+[2026-03-30 09:17:58] Bill Added - 2662
+[2026-03-30 09:17:58] Bill Saved - 2662
+[2026-03-30 09:19:14] Staff Entered Invalid Choice
+[2026-03-30 09:19:18] System Started
+[2026-03-30 09:19:19] Login Selected
+[2026-03-30 09:19:26] Users Read
+[2026-03-30 09:19:26] Login Success - shumbul (staff)
+[2026-03-30 09:19:26] Login Success - shumbul
+[2026-03-30 09:19:26] Staff Dashboard Opened
+[2026-03-30 09:19:26] Staff Dashboard Opened
+[2026-03-30 09:19:27] Staff Clicked View Menu
+[2026-03-30 09:19:27] View Menu Opened
+[2026-03-30 09:19:27] Menu Read
+[2026-03-30 09:19:27] Menu Viewed Successfully
+[2026-03-30 09:19:28] Staff Clicked Take Order
+[2026-03-30 09:19:28] Menu Read
+[2026-03-30 09:19:36] Order Added - Schezwan Rice Qty 1 full
+[2026-03-30 09:19:38] Orders Read
+[2026-03-30 09:19:38] Orders Saved
+[2026-03-30 09:19:38] Order Added
+[2026-03-30 09:19:38] Order Saved Successfully
+[2026-03-30 09:19:41] Staff Clicked View Orders
+[2026-03-30 09:19:41] Orders Read
+[2026-03-30 09:19:41] View Orders Opened
+[2026-03-30 09:19:41] Orders Viewed Successfully
+[2026-03-30 09:19:46] Staff Clicked Table Booking
+[2026-03-30 09:19:56] Table Booked - Table 2 Name shajiya People 4
+[2026-03-30 09:19:58] Staff Clicked Generate Bill
+[2026-03-30 09:19:58] Orders Read
+[2026-03-30 09:20:12] Bill Generated - Bill No 8030 Table 2 Total ₹230.0 Payment Cash
+[2026-03-30 09:20:12] Bills Read
+[2026-03-30 09:20:12] Bills Saved
+[2026-03-30 09:20:12] Bill Added - 8030
+[2026-03-30 09:20:12] Bill Saved - 8030
+[2026-03-30 09:20:14] Staff Logout
+[2026-03-30 09:20:17] Login Selected
+[2026-03-30 09:20:22] Users Read
+[2026-03-30 09:20:22] Login Success - dua (admin)
+[2026-03-30 09:20:22] Login Success - dua
+[2026-03-30 09:20:22] Admin Dashboard Opened
+[2026-03-30 09:20:22] Admin Dashboard Opened
+[2026-03-30 09:20:23] Admin Clicked View Menu
+[2026-03-30 09:20:23] View Menu Opened
+[2026-03-30 09:20:23] Menu Read
+[2026-03-30 09:20:23] Menu Viewed Successfully
+[2026-03-30 09:20:26] Admin Clicked Add Item
+[2026-03-30 09:20:26] Add Item Opened
+[2026-03-30 09:20:26] Menu Read
+[2026-03-30 09:22:03] System Started
+[2026-03-30 09:22:09] Login Selected
+[2026-03-30 09:22:14] Users Read
+[2026-03-30 09:22:14] Login Success - dua (admin)
+[2026-03-30 09:22:14] Login Success - dua
+[2026-03-30 09:22:14] Admin Dashboard Opened
+[2026-03-30 09:22:14] Admin Dashboard Opened
+[2026-03-30 09:22:15] Admin Clicked View Menu
+[2026-03-30 09:22:15] View Menu Opened
+[2026-03-30 09:22:15] Menu Read
+[2026-03-30 09:22:15] Menu Viewed Successfully
+[2026-03-30 09:22:17] Admin Clicked Add Item
+[2026-03-30 09:22:17] Add Item Opened
+[2026-03-30 09:22:17] Menu Read
+[2026-03-30 09:23:13] Menu Saved
+[2026-03-30 09:23:13] Item Added - chawmin ID 66 Category CHINES
+[2026-03-30 09:23:16] Admin Clicked Update Item
+[2026-03-30 09:23:16] Update Item Opened
+[2026-03-30 09:23:16] Menu Read
+[2026-03-30 09:23:22] Item Found For Update - ID 66
+[2026-03-30 09:23:37] Item Updated - ID 66 Name nodles
+[2026-03-30 09:23:37] Menu Saved
+[2026-03-30 09:23:44] Admin Clicked Delete Item
+[2026-03-30 09:23:44] Delete Item Opened
+[2026-03-30 09:23:44] Menu Read
+[2026-03-30 09:23:55] Item Deleted - ID 66 Category CHINES
+[2026-03-30 09:23:55] Menu Saved
+[2026-03-30 09:24:00] Admin Clicked View Orders
+[2026-03-30 09:24:00] Orders Read
+[2026-03-30 09:24:00] View Orders Opened
+[2026-03-30 09:24:00] Orders Viewed Successfully
+[2026-03-30 09:24:05] Admin Clicked Sales Report
+[2026-03-30 09:24:05] Sales Report Opened
+[2026-03-30 09:24:05] Bills Read
+[2026-03-30 09:24:05] Sales Report Generated - Total ₹828.0
+[2026-03-30 09:24:23] Admin Logout
+[2026-03-30 09:24:26] Signup Selected
+[2026-03-30 09:24:26] Signup Opened
+[2026-03-30 09:24:35] Signup Failed - Invalid Email
+[2026-03-30 09:24:42] Login Selected
+[2026-03-30 09:24:51] Users Read
+[2026-03-30 09:24:51] Login Failed - dua123
+[2026-03-30 09:24:51] Login Failed
+[2026-03-30 09:25:44] System Exit
+[2026-03-30 11:33:10] System Started
+[2026-03-30 11:33:13] Signup Selected
+[2026-03-30 11:33:13] Signup Opened
+[2026-03-30 11:34:41] System Started
+[2026-03-30 11:34:42] Signup Selected
+[2026-03-30 11:34:42] Signup Opened
+[2026-03-30 11:35:13] System Started
+[2026-03-30 11:35:17] Signup Selected
+[2026-03-30 11:35:17] Signup Opened
+[2026-03-30 12:28:00] System Started
+[2026-03-30 12:28:03] Signup Selected
+[2026-03-30 12:28:03] Signup Opened
+[2026-03-30 12:28:24] Users Read
+[2026-03-30 12:28:31] Signup Success - muskan (musakn@gmail.com)
+[2026-03-30 12:28:31] Users Read
+[2026-03-30 12:28:31] Users Saved
+[2026-03-30 12:28:31] User Added - muskan
+[2026-03-30 12:28:31] Signup Success - muskan
+[2026-03-30 12:28:35] Login Selected
+[2026-03-30 12:28:51] Users Read
+[2026-03-30 12:28:51] Login Failed - muskan
+[2026-03-30 12:28:51] Login Failed
+[2026-03-30 12:29:10] Login Selected
+[2026-03-30 12:29:20] Users Read
+[2026-03-30 12:29:20] Login Failed - muskan
+[2026-03-30 12:29:20] Login Failed
+[2026-03-30 12:29:35] Login Selected
+[2026-03-30 12:29:49] Users Read
+[2026-03-30 12:29:49] Login Success - muskan (staff)
+[2026-03-30 12:29:49] Login Success - muskan
+[2026-03-30 12:29:49] Staff Dashboard Opened
+[2026-03-30 12:29:49] Staff Dashboard Opened
+[2026-03-30 12:29:59] Staff Clicked View Menu
+[2026-03-30 12:29:59] View Menu Opened
+[2026-03-30 12:29:59] Menu Read
+[2026-03-30 12:29:59] Menu Viewed Successfully
+[2026-03-30 12:30:20] Staff Clicked Take Order
+[2026-03-30 12:30:20] Menu Read
+[2026-03-30 12:30:37] Order Added - spring roll Qty 1 half
+[2026-03-30 12:30:42] Orders Read
+[2026-03-30 12:30:42] Orders Saved
+[2026-03-30 12:30:42] Order Added
+[2026-03-30 12:30:42] Order Saved Successfully
+[2026-03-30 12:30:47] Staff Clicked View Orders
+[2026-03-30 12:30:47] Orders Read
+[2026-03-30 12:30:47] View Orders Opened
+[2026-03-30 12:30:47] Orders Viewed Successfully
+[2026-03-30 12:30:57] Staff Clicked Table Booking
+[2026-03-30 12:31:15] Table Booked - Table 2 Name muskan People 6
+[2026-03-30 12:31:19] Staff Clicked Generate Bill
+[2026-03-30 12:31:19] Orders Read
+[2026-03-30 12:31:30] Bill Generated - Bill No 3526 Table 2 Total ₹92.0 Payment Cash
+[2026-03-30 12:31:30] Bills Read
+[2026-03-30 12:31:30] Bills Saved
+[2026-03-30 12:31:30] Bill Added - 3526
+[2026-03-30 12:31:30] Bill Saved - 3526
+[2026-03-30 12:31:49] Staff Logout
+[2026-03-30 12:31:51] System Exit
+[2026-03-30 12:31:51] System Started
+[2026-03-30 12:31:55] System Exit
+[2026-03-30 20:43:28] System Started
+[2026-03-31 07:58:22] System Started
+[2026-03-31 07:59:11] System Started
+[2026-03-31 07:59:17] Signup Selected
+[2026-03-31 07:59:17] Signup Opened
+[2026-03-31 08:04:30] System Started
+[2026-03-31 08:04:32] Signup Selected
+[2026-03-31 08:04:32] Signup Opened
+[2026-03-31 08:09:59] System Started
+[2026-03-31 08:10:01] Signup Selected
+[2026-03-31 08:10:01] Signup Opened
+[2026-03-31 08:10:17] Users Read
+[2026-03-31 08:10:33] Signup Success - inaya (inaya@gmail.com)
+[2026-03-31 08:10:33] Users Read
+[2026-03-31 08:10:33] Users Saved
+[2026-03-31 08:10:33] User Added - inaya
+[2026-03-31 08:10:33] Signup Success - inaya
+[2026-03-31 08:10:33] Invalid Choice Entered
+[2026-03-31 08:10:54] Signup Selected
+[2026-03-31 08:10:54] Signup Opened
+[2026-03-31 08:11:04] Users Read
+[2026-03-31 08:11:04] Signup Failed - Email Exists inaya@gmail.com
+[2026-03-31 08:11:04] Invalid Choice Entered
+[2026-03-31 08:15:18] System Started
+[2026-03-31 08:15:20] Signup Selected
+[2026-03-31 08:15:20] Signup Opened
+[2026-03-31 08:15:33] Users Read
+[2026-03-31 08:15:36] Signup Success - noor (noor@gmail.com)
+[2026-03-31 08:15:36] Users Read
+[2026-03-31 08:15:36] Users Saved
+[2026-03-31 08:15:36] User Added - noor
+[2026-03-31 08:15:36] Signup Success - noor
+[2026-03-31 08:15:38] Login Selected
+[2026-03-31 08:15:44] Users Read
+[2026-03-31 08:18:43] System Started
+[2026-03-31 08:18:48] Signup Selected
+[2026-03-31 08:18:48] Signup Opened
+[2026-03-31 08:18:59] Users Read
+[2026-03-31 08:19:03] Signup Success - shajiya (shajiya@gmail.com)
+[2026-03-31 08:19:03] Users Read
+[2026-03-31 08:19:03] Users Saved
+[2026-03-31 08:19:03] User Added - shajiya
+[2026-03-31 08:19:03] Signup Success - shajiya
+[2026-03-31 08:19:05] Login Selected
+[2026-03-31 08:19:14] Users Read
+[2026-03-31 08:19:14] Login Success - shajiya (staff)
+[2026-03-31 08:19:14] Login Success - shajiya
+[2026-03-31 08:19:14] Staff Dashboard Opened
+[2026-03-31 08:19:14] Staff Dashboard Opened
+[2026-03-31 08:19:15] Staff Clicked View Menu
+[2026-03-31 08:19:15] View Menu Opened
+[2026-03-31 08:19:15] Menu Read
+[2026-03-31 08:19:15] Menu Viewed Successfully
+[2026-03-31 08:19:22] Staff Clicked Take Order
+[2026-03-31 08:19:22] Menu Read
+[2026-03-31 08:19:33] Order Added - Hakka Noodles Qty 2 full
+[2026-03-31 08:19:35] Orders Read
+[2026-03-31 08:19:35] Orders Saved
+[2026-03-31 08:19:35] Order Added
+[2026-03-31 08:19:35] Order Saved Successfully
+[2026-03-31 08:19:38] Staff Clicked View Orders
+[2026-03-31 08:19:38] Orders Read
+[2026-03-31 08:19:38] View Orders Opened
+[2026-03-31 08:19:38] Orders Viewed Successfully
+[2026-03-31 08:19:44] Staff Clicked Table Booking
+[2026-03-31 08:19:50] Table Booked - Table 2 Name shajiya People 4
+[2026-03-31 08:19:53] Staff Clicked Generate Bill
+[2026-03-31 08:19:53] Orders Read
+[2026-03-31 08:20:02] Bill Generated - Bill No 4590 Table 2 Total ₹414.0 Payment UPI
+[2026-03-31 08:20:02] Bills Read
+[2026-03-31 08:20:02] Bills Saved
+[2026-03-31 08:20:02] Bill Added - 4590
+[2026-03-31 08:20:02] Bill Saved - 4590
+[2026-03-31 08:20:09] Staff Logout
+[2026-03-31 08:20:21] System Exit
+[2026-03-31 08:20:37] System Started
+[2026-03-31 08:20:40] Login Selected
+[2026-03-31 08:20:46] Users Read
+[2026-03-31 08:20:46] Login Success - shajiya (admin)
+[2026-03-31 08:20:46] Login Success - shajiya
+[2026-03-31 08:20:46] Admin Dashboard Opened
+[2026-03-31 08:20:46] Admin Dashboard Opened
+[2026-03-31 08:20:48] Admin Clicked View Menu
+[2026-03-31 08:20:48] View Menu Opened
+[2026-03-31 08:20:48] Menu Read
+[2026-03-31 08:20:48] Menu Viewed Successfully
+[2026-03-31 08:20:49] Admin Clicked Add Item
+[2026-03-31 08:20:49] Add Item Opened
+[2026-03-31 08:20:49] Menu Read
+[2026-03-31 08:21:43] Menu Saved
+[2026-03-31 08:21:43] Item Added - noodle ID 66 Category CHINES
+[2026-03-31 08:21:56] Admin Clicked View Menu
+[2026-03-31 08:21:56] View Menu Opened
+[2026-03-31 08:21:56] Menu Read
+[2026-03-31 08:21:56] Menu Viewed Successfully
+[2026-03-31 08:22:05] Admin Clicked Add Item
+[2026-03-31 08:22:05] Add Item Opened
+[2026-03-31 08:22:05] Menu Read
+[2026-03-31 08:22:47] Menu Saved
+[2026-03-31 08:22:47] Item Added - chomin ID 67 Category CHINES
+[2026-03-31 08:22:51] Admin Clicked Update Item
+[2026-03-31 08:22:51] Update Item Opened
+[2026-03-31 08:22:51] Menu Read
+[2026-03-31 08:22:57] Item Found For Update - ID 67
+[2026-03-31 08:23:13] Item Updated - ID 67 Name noodel
+[2026-03-31 08:23:13] Menu Saved
+[2026-03-31 08:23:16] Admin Clicked Delete Item
+[2026-03-31 08:23:16] Delete Item Opened
+[2026-03-31 08:23:16] Menu Read
+[2026-03-31 08:23:27] Item Deleted - ID 67 Category CHINES
+[2026-03-31 08:23:27] Menu Saved
+[2026-03-31 08:23:29] Admin Clicked Delete Item
+[2026-03-31 08:23:29] Delete Item Opened
+[2026-03-31 08:23:29] Menu Read
+[2026-03-31 08:23:34] Item Deleted - ID 66 Category CHINES
+[2026-03-31 08:23:34] Menu Saved
+[2026-03-31 08:23:36] Admin Clicked Sales Report
+[2026-03-31 08:23:36] Sales Report Opened
+[2026-03-31 08:23:36] Bills Read
+[2026-03-31 08:23:36] Sales Report Generated - Total ₹1334.0
+[2026-03-31 08:23:43] Admin Logout
+[2026-03-31 08:23:45] System Exit
+[2026-03-31 18:20:39] System Started
+[2026-03-31 18:20:44] Signup Selected
+[2026-03-31 18:20:44] Signup Opened
+[2026-03-31 18:21:12] Users Read
+[2026-03-31 18:21:19] Signup Success - 00000 (s@@@@gmail.com)
+[2026-03-31 18:21:19] Users Read
+[2026-03-31 18:21:19] Users Saved
+[2026-03-31 18:21:19] User Added - 00000
+[2026-03-31 18:21:19] Signup Success - 00000
+[2026-03-31 18:21:27] Signup Selected
+[2026-03-31 18:21:27] Signup Opened
+[2026-03-31 18:21:39] Signup Failed - Invalid Email
+[2026-03-31 18:22:00] Signup Selected
+[2026-03-31 18:22:00] Signup Opened
+[2026-03-31 18:22:15] Users Read
+[2026-03-31 18:22:20] Signup Success - saniya (saniya@gmail.com)
+[2026-03-31 18:22:20] Users Read
+[2026-03-31 18:22:20] Users Saved
+[2026-03-31 18:22:20] User Added - saniya
+[2026-03-31 18:22:20] Signup Success - saniya
+[2026-03-31 18:22:22] Login Selected
+[2026-03-31 18:22:27] Users Read
+[2026-03-31 18:22:27] Login Failed - 0000
+[2026-03-31 18:22:27] Login Failed
+[2026-03-31 18:22:41] Login Selected
+[2026-03-31 18:22:47] Users Read
+[2026-03-31 18:22:47] Login Success - saniya (staff)
+[2026-03-31 18:22:47] Login Success - saniya
+[2026-03-31 18:22:47] Staff Dashboard Opened
+[2026-03-31 18:22:47] Staff Dashboard Opened
+[2026-03-31 18:22:49] Staff Clicked View Menu
+[2026-03-31 18:22:49] View Menu Opened
+[2026-03-31 18:22:49] Menu Read
+[2026-03-31 18:22:49] Menu Viewed Successfully
+[2026-03-31 18:23:51] Staff Clicked Take Order
+[2026-03-31 18:23:51] Menu Read
+[2026-03-31 18:24:16] Order Added - Mineral Water Qty 10000000 single
+[2026-03-31 18:24:20] Orders Read
+[2026-03-31 18:24:20] Orders Saved
+[2026-03-31 18:24:20] Order Added
+[2026-03-31 18:24:20] Order Saved Successfully
+[2026-03-31 18:35:19] System Started
+[2026-03-31 18:35:21] Signup Selected
+[2026-03-31 18:35:21] Signup Opened
+[2026-03-31 18:35:24] Signup Failed - Invalid Username
+[2026-03-31 18:35:28] Signup Selected
+[2026-03-31 18:35:28] Signup Opened
+[2026-03-31 18:35:35] Signup Failed - Invalid Email
+[2026-03-31 18:35:37] Signup Selected
+[2026-03-31 18:35:37] Signup Opened
+[2026-03-31 18:35:50] Users Read
+[2026-03-31 18:35:53] Signup Failed - Weak Password
+[2026-03-31 18:35:59] Signup Selected
+[2026-03-31 18:35:59] Signup Opened
+[2026-03-31 18:36:05] Users Read
+[2026-03-31 18:36:09] Signup Success - dua (dua@gmail.com)
+[2026-03-31 18:36:09] Users Read
+[2026-03-31 18:36:09] Users Saved
+[2026-03-31 18:36:09] User Added - dua
+[2026-03-31 18:36:09] Signup Success - dua
+[2026-03-31 18:36:18] Login Selected
+[2026-03-31 18:36:25] Users Read
+[2026-03-31 18:36:25] Login Failed - 00000
+[2026-03-31 18:36:25] Login Failed
+[2026-03-31 18:37:07] Login Selected
+[2026-03-31 18:37:12] Users Read
+[2026-03-31 18:37:12] Login Failed - ------
+[2026-03-31 18:37:12] Login Failed
+[2026-03-31 18:37:16] Signup Selected
+[2026-03-31 18:37:16] Signup Opened
+[2026-03-31 18:37:31] Signup Failed - Invalid Email
+[2026-03-31 18:37:40] Signup Selected
+[2026-03-31 18:37:40] Signup Opened
+[2026-03-31 18:37:52] Users Read
+[2026-03-31 18:37:57] Signup Success - tahira (tahira@gmail.com)
+[2026-03-31 18:37:57] Users Read
+[2026-03-31 18:37:57] Users Saved
+[2026-03-31 18:37:57] User Added - tahira
+[2026-03-31 18:37:57] Signup Success - tahira
+[2026-03-31 18:38:01] Login Selected
+[2026-03-31 18:38:08] Users Read
+[2026-03-31 18:38:08] Login Failed - tahira
+[2026-03-31 18:38:08] Login Failed
+[2026-03-31 18:38:32] Login Selected
+[2026-03-31 18:38:40] Users Read
+[2026-03-31 18:38:40] Login Success - tahira (staff)
+[2026-03-31 18:38:40] Login Success - tahira
+[2026-03-31 18:38:40] Staff Dashboard Opened
+[2026-03-31 18:38:40] Staff Dashboard Opened
+[2026-03-31 18:38:42] Staff Clicked View Menu
+[2026-03-31 18:38:42] View Menu Opened
+[2026-03-31 18:38:42] Menu Read
+[2026-03-31 18:38:42] Menu Viewed Successfully
+[2026-03-31 19:02:19] System Started
+[2026-03-31 19:02:21] Signup Selected
+[2026-03-31 19:02:21] Signup Opened
+[2026-03-31 19:02:30] Users Read
+[2026-03-31 19:02:35] Signup Success - goldy (goldy@gmail.com)
+[2026-03-31 19:02:35] Users Read
+[2026-03-31 19:02:35] Users Saved
+[2026-03-31 19:02:35] User Added - goldy
+[2026-03-31 19:02:35] Signup Success - goldy
+[2026-03-31 19:02:37] Login Selected
+[2026-03-31 19:02:46] Users Read
+[2026-03-31 19:02:46] Login Success - goldy (staff)
+[2026-03-31 19:02:46] Login Success - goldy
+[2026-03-31 19:02:46] Staff Dashboard Opened
+[2026-03-31 19:02:46] Staff Dashboard Opened
+[2026-03-31 19:02:51] Staff Clicked View Menu
+[2026-03-31 19:02:51] View Menu Opened
+[2026-03-31 19:02:51] Menu Read
+[2026-03-31 19:02:51] Menu Viewed Successfully
+[2026-03-31 19:03:01] Staff Clicked Take Order
+[2026-03-31 19:10:04] System Started
+[2026-03-31 19:10:06] Login Selected
+[2026-03-31 19:10:12] Users Read
+[2026-03-31 19:10:12] Login Success - goldy (staff)
+[2026-03-31 19:10:12] Login Success - goldy
+[2026-03-31 19:10:12] Staff Dashboard Opened
+[2026-03-31 19:10:12] Staff Dashboard Opened
+[2026-03-31 19:10:13] Staff Clicked View Menu
+[2026-03-31 19:10:13] View Menu Opened
+[2026-03-31 19:10:13] Menu Read
+[2026-03-31 19:10:13] Menu Viewed Successfully
+[2026-03-31 19:10:16] Staff Clicked Take Order
+[2026-03-31 19:10:22] Tables Read
+[2026-03-31 19:10:22] Order Failed - Table Not Booked 2
+[2026-03-31 19:10:30] Staff Clicked Take Order
+[2026-03-31 19:13:34] System Started
+[2026-03-31 19:13:35] Login Selected
+[2026-03-31 19:13:41] Users Read
+[2026-03-31 19:13:41] Login Success - goldy (staff)
+[2026-03-31 19:13:41] Login Success - goldy
+[2026-03-31 19:13:41] Staff Dashboard Opened
+[2026-03-31 19:13:41] Staff Dashboard Opened
+[2026-03-31 19:13:43] Staff Clicked View Menu
+[2026-03-31 19:13:43] View Menu Opened
+[2026-03-31 19:13:43] Menu Read
+[2026-03-31 19:13:43] Menu Viewed Successfully
+[2026-03-31 19:13:45] Staff Clicked Take Order
+[2026-03-31 19:13:45] Tables Read
+[2026-03-31 19:13:45] Order Failed - No Table Booked
+[2026-03-31 19:13:54] Staff Clicked Table Booking
+[2026-03-31 19:15:39] System Started
+[2026-03-31 19:15:44] Login Selected
+[2026-03-31 19:15:50] Users Read
+[2026-03-31 19:15:50] Login Success - goldy (staff)
+[2026-03-31 19:15:50] Login Success - goldy
+[2026-03-31 19:15:50] Staff Dashboard Opened
+[2026-03-31 19:15:50] Staff Dashboard Opened
+[2026-03-31 19:15:51] Staff Clicked View Menu
+[2026-03-31 19:15:51] View Menu Opened
+[2026-03-31 19:15:51] Menu Read
+[2026-03-31 19:15:51] Menu Viewed Successfully
+[2026-03-31 19:16:03] Staff Clicked Take Order
+[2026-03-31 19:16:03] Tables Read
+[2026-03-31 19:16:03] Order Failed - No Table Booked
+[2026-03-31 19:16:12] Staff Clicked Table Booking
+[2026-03-31 19:18:22] System Started
+[2026-03-31 19:18:23] Login Selected
+[2026-03-31 19:18:29] Users Read
+[2026-03-31 19:18:29] Login Success - goldy (staff)
+[2026-03-31 19:18:29] Login Success - goldy
+[2026-03-31 19:18:29] Staff Dashboard Opened
+[2026-03-31 19:18:29] Staff Dashboard Opened
+[2026-03-31 19:18:32] Staff Clicked View Menu
+[2026-03-31 19:18:32] View Menu Opened
+[2026-03-31 19:18:32] Menu Read
+[2026-03-31 19:18:32] Menu Viewed Successfully
+[2026-03-31 19:18:35] Staff Clicked Take Order
+[2026-03-31 19:18:35] Tables Read
+[2026-03-31 19:18:35] Order Failed - No Table Booked
+[2026-03-31 19:18:41] Staff Clicked Table Booking
+[2026-03-31 19:21:54] System Started
+[2026-03-31 19:21:56] Login Selected
+[2026-03-31 19:22:01] Users Read
+[2026-03-31 19:22:01] Login Success - goldy (staff)
+[2026-03-31 19:22:01] Login Success - goldy
+[2026-03-31 19:22:01] Staff Dashboard Opened
+[2026-03-31 19:22:01] Staff Dashboard Opened
+[2026-03-31 19:22:05] Staff Clicked Table Booking
+[2026-03-31 19:22:17] System Started
+[2026-03-31 19:22:19] Login Selected
+[2026-03-31 19:22:25] Users Read
+[2026-03-31 19:22:25] Login Success - goldy (staff)
+[2026-03-31 19:22:25] Login Success - goldy
+[2026-03-31 19:22:25] Staff Dashboard Opened
+[2026-03-31 19:22:25] Staff Dashboard Opened
+[2026-03-31 19:22:27] Staff Clicked View Menu
+[2026-03-31 19:22:27] View Menu Opened
+[2026-03-31 19:22:27] Menu Read
+[2026-03-31 19:22:27] Menu Viewed Successfully
+[2026-03-31 19:22:28] Staff Clicked Take Order
+[2026-03-31 19:22:28] Tables Read
+[2026-03-31 19:22:28] Order Failed - No Table Booked
+[2026-03-31 19:22:31] Staff Clicked Table Booking
+[2026-03-31 19:22:48] Table Booking Failed - Invalid Time
+[2026-03-31 19:23:03] Staff Clicked Table Booking
+[2026-03-31 19:23:18] Table Booking Failed - Invalid Time
+[2026-03-31 19:26:44] System Started
+[2026-03-31 19:26:47] Login Selected
+[2026-03-31 19:26:54] Users Read
+[2026-03-31 19:26:54] Login Success - goldy (staff)
+[2026-03-31 19:26:54] Login Success - goldy
+[2026-03-31 19:26:54] Staff Dashboard Opened
+[2026-03-31 19:26:54] Staff Dashboard Opened
+[2026-03-31 19:26:56] Staff Clicked View Menu
+[2026-03-31 19:26:56] View Menu Opened
+[2026-03-31 19:26:56] Menu Read
+[2026-03-31 19:26:56] Menu Viewed Successfully
+[2026-03-31 19:26:57] Staff Clicked Take Order
+[2026-03-31 19:26:57] Tables Read
+[2026-03-31 19:26:57] Order Failed - No Table Booked
+[2026-03-31 19:27:02] Staff Clicked Table Booking
+[2026-03-31 19:27:47] Staff Clicked Table Booking
+[2026-03-31 19:28:03] Tables Read
+[2026-03-31 19:28:03] Tables Saved
+[2026-03-31 19:28:03] Table Booked - 2
+[2026-03-31 19:28:03] Table Booked - 2
+[2026-03-31 19:28:32] Staff Clicked Take Order
+[2026-03-31 19:28:32] Tables Read
+[2026-03-31 19:29:37] Menu Read
+[2026-03-31 19:31:44] System Started
+[2026-03-31 19:31:47] Login Selected
+[2026-03-31 19:31:52] Users Read
+[2026-03-31 19:31:52] Login Success - goldy (staff)
+[2026-03-31 19:31:52] Login Success - goldy
+[2026-03-31 19:31:52] Staff Dashboard Opened
+[2026-03-31 19:31:52] Staff Dashboard Opened
+[2026-03-31 19:31:53] Staff Clicked View Menu
+[2026-03-31 19:31:53] View Menu Opened
+[2026-03-31 19:31:53] Menu Read
+[2026-03-31 19:31:53] Menu Viewed Successfully
+[2026-03-31 19:31:55] Staff Clicked Take Order
+[2026-03-31 19:32:24] System Started
+[2026-03-31 19:32:25] Login Selected
+[2026-03-31 19:32:30] Users Read
+[2026-03-31 19:32:30] Login Success - goldy (staff)
+[2026-03-31 19:32:30] Login Success - goldy
+[2026-03-31 19:32:30] Staff Dashboard Opened
+[2026-03-31 19:32:30] Staff Dashboard Opened
+[2026-03-31 19:32:30] Staff Clicked View Menu
+[2026-03-31 19:32:30] View Menu Opened
+[2026-03-31 19:32:30] Menu Read
+[2026-03-31 19:32:31] Menu Viewed Successfully
+[2026-03-31 19:32:32] Staff Clicked Take Order
+[2026-03-31 19:32:55] System Started
+[2026-03-31 19:32:56] Login Selected
+[2026-03-31 19:33:02] Users Read
+[2026-03-31 19:33:02] Login Success - goldy (staff)
+[2026-03-31 19:33:02] Login Success - goldy
+[2026-03-31 19:33:02] Staff Dashboard Opened
+[2026-03-31 19:33:02] Staff Dashboard Opened
+[2026-03-31 19:33:03] Staff Clicked View Menu
+[2026-03-31 19:33:03] View Menu Opened
+[2026-03-31 19:33:03] Menu Read
+[2026-03-31 19:33:03] Menu Viewed Successfully
+[2026-03-31 19:33:04] Staff Clicked Take Order
+[2026-03-31 19:33:04] Tables Read
+[2026-03-31 19:33:17] Menu Read
+[2026-03-31 19:34:07] Staff Clicked Generate Bill
+[2026-03-31 19:34:07] Orders Read
+[2026-03-31 19:34:53] Bill Generated - Bill No 9834 Table 2 Total ₹230000000.0 Payment Cash
+[2026-03-31 19:34:54] Bills Read
+[2026-03-31 19:34:54] Bills Saved
+[2026-03-31 19:34:54] Bill Added - 9834
+[2026-03-31 19:34:54] Bill Saved - 9834
+[2026-03-31 19:34:56] Staff Clicked Generate Bill
+[2026-03-31 19:34:56] Orders Read
+[2026-03-31 19:35:02] Bill Generated - Bill No 2557 Table 2 Total ₹230000000.0 Payment Cash
+[2026-03-31 19:35:02] Bills Read
+[2026-03-31 19:35:02] Bills Saved
+[2026-03-31 19:35:02] Bill Added - 2557
+[2026-03-31 19:35:02] Bill Saved - 2557
+[2026-03-31 19:35:06] Staff Clicked Table Booking
+[2026-03-31 19:35:22] Tables Read
+[2026-03-31 19:35:22] Tables Saved
+[2026-03-31 19:35:22] Table Booked - 3
+[2026-03-31 19:35:22] Table Booked - 3
+[2026-03-31 19:36:21] System Started
+[2026-03-31 19:36:24] Login Selected
+[2026-03-31 19:36:30] Users Read
+[2026-03-31 19:36:30] Login Success - goldy (staff)
+[2026-03-31 19:36:30] Login Success - goldy
+[2026-03-31 19:36:30] Staff Dashboard Opened
+[2026-03-31 19:36:30] Staff Dashboard Opened
+[2026-03-31 19:36:32] Staff Clicked View Menu
+[2026-03-31 19:36:32] View Menu Opened
+[2026-03-31 19:36:32] Menu Read
+[2026-03-31 19:36:32] Menu Viewed Successfully
+[2026-03-31 19:36:33] Staff Clicked Take Order
+[2026-03-31 19:36:33] Menu Read
+[2026-03-31 19:36:42] Order Added - Uttapam Qty 2 full
+[2026-03-31 19:36:44] Orders Read
+[2026-03-31 19:36:44] Orders Saved
+[2026-03-31 19:36:44] Order Added
+[2026-03-31 19:36:44] Order Saved Successfully
+[2026-03-31 19:36:49] Staff Clicked View Orders
+[2026-03-31 19:36:49] Orders Read
+[2026-03-31 19:36:49] View Orders Opened
+[2026-03-31 19:36:49] Orders Viewed Successfully
+[2026-03-31 19:41:53] System Started
+[2026-03-31 19:41:55] Signup Selected
+[2026-03-31 19:41:55] Signup Opened
+[2026-03-31 19:42:08] Users Read
+[2026-03-31 19:42:13] Signup Success - sharmin (sharmin@gmail.com)
+[2026-03-31 19:42:13] Users Read
+[2026-03-31 19:42:13] Users Saved
+[2026-03-31 19:42:13] User Added - sharmin
+[2026-03-31 19:42:13] Signup Success - sharmin
+[2026-03-31 19:42:15] Login Selected
+[2026-03-31 19:42:23] Users Read
+[2026-03-31 19:42:23] Login Failed - sharmin
+[2026-03-31 19:42:23] Login Failed
+[2026-03-31 19:42:25] Login Selected
+[2026-03-31 19:42:31] Users Read
+[2026-03-31 19:42:31] Login Success - sharmin (staff)
+[2026-03-31 19:42:31] Login Success - sharmin
+[2026-03-31 19:42:31] Staff Dashboard Opened
+[2026-03-31 19:42:31] Staff Dashboard Opened
+[2026-03-31 19:42:33] Staff Clicked View Menu
+[2026-03-31 19:42:33] View Menu Opened
+[2026-03-31 19:42:33] Menu Read
+[2026-03-31 19:42:33] Menu Viewed Successfully
+[2026-03-31 19:42:35] Staff Clicked Take Order
+[2026-03-31 19:42:35] Menu Read
+[2026-03-31 19:42:46] Order Added - Schezwan Rice Qty 2 full
+[2026-03-31 19:42:48] Orders Read
+[2026-03-31 19:42:48] Orders Saved
+[2026-03-31 19:42:48] Order Added
+[2026-03-31 19:42:48] Order Saved Successfully
+[2026-03-31 19:42:50] Staff Clicked View Orders
+[2026-03-31 19:42:50] Orders Read
+[2026-03-31 19:42:50] View Orders Opened
+[2026-03-31 19:42:50] Orders Viewed Successfully
+[2026-03-31 19:42:59] Staff Clicked Table Booking
+[2026-03-31 19:43:18] Tables Read
+[2026-03-31 19:43:18] Tables Saved
+[2026-03-31 19:43:18] Table Booked - 2
+[2026-03-31 19:43:18] Table Booked - 2
+[2026-03-31 19:43:33] Staff Clicked Generate Bill
+[2026-03-31 19:43:33] Orders Read
+[2026-03-31 19:43:49] Bill Generated - Bill No 2226 Table 2 Total ₹460.0 Payment Cash
+[2026-03-31 19:43:49] Bills Read
+[2026-03-31 19:43:49] Bills Saved
+[2026-03-31 19:43:49] Bill Added - 2226
+[2026-03-31 19:43:49] Bill Saved - 2226
+[2026-03-31 19:43:56] Staff Logout
+[2026-03-31 19:44:20] Login Selected
+[2026-03-31 19:44:26] Users Read
+[2026-03-31 19:44:26] Login Success - goldy (admin)
+[2026-03-31 19:44:26] Login Success - goldy
+[2026-03-31 19:44:26] Admin Dashboard Opened
+[2026-03-31 19:44:26] Admin Dashboard Opened
+[2026-03-31 19:44:28] Admin Clicked View Menu
+[2026-03-31 19:44:28] View Menu Opened
+[2026-03-31 19:44:28] Menu Read
+[2026-03-31 19:44:28] Menu Viewed Successfully
+[2026-03-31 19:44:30] Admin Clicked Add Item
+[2026-03-31 19:44:30] Add Item Opened
+[2026-03-31 19:44:30] Menu Read
+[2026-03-31 19:45:06] Menu Saved
+[2026-03-31 19:45:06] Item Added - noodle ID 66 Category CHINES
+[2026-03-31 19:45:13] Admin Clicked View Menu
+[2026-03-31 19:45:13] View Menu Opened
+[2026-03-31 19:45:13] Menu Read
+[2026-03-31 19:45:13] Menu Viewed Successfully
+[2026-03-31 19:45:23] Admin Clicked Delete Item
+[2026-03-31 19:45:23] Delete Item Opened
+[2026-03-31 19:45:23] Menu Read
+[2026-03-31 19:45:26] Item Deleted - ID 66 Category CHINES
+[2026-03-31 19:45:26] Menu Saved
+[2026-03-31 19:45:28] Admin Clicked View Menu
+[2026-03-31 19:45:28] View Menu Opened
+[2026-03-31 19:45:28] Menu Read
+[2026-03-31 19:45:28] Menu Viewed Successfully
+[2026-03-31 19:45:32] Admin Clicked Sales Report
+[2026-03-31 19:45:32] Sales Report Opened
+[2026-03-31 19:45:32] Bills Read
+[2026-03-31 19:45:32] Sales Report Generated - Total ₹460001794.0
+[2026-03-31 19:45:56] Admin Logout
+[2026-03-31 19:45:57] System Exit
+[2026-04-01 12:57:40] System Started
+[2026-04-01 12:57:59] Signup Selected
+[2026-04-01 12:57:59] Signup Opened
+[2026-04-01 12:58:18] Signup Failed - Invalid Username
+[2026-04-01 12:58:26] Signup Selected
+[2026-04-01 12:58:26] Signup Opened
+[2026-04-01 12:58:57] Users Read
+[2026-04-01 12:58:57] Signup Failed - Email Exists shajiya@gmail.com
+[2026-04-01 12:59:04] Signup Selected
+[2026-04-01 12:59:04] Signup Opened
+[2026-04-01 12:59:32] Signup Failed - Invalid Username
+[2026-04-01 12:59:46] Signup Selected
+[2026-04-01 12:59:46] Signup Opened
+[2026-04-01 13:00:04] Users Read
+[2026-04-01 13:00:10] Signup Success - saloni (saloni@gmail.com)
+[2026-04-01 13:00:10] Users Read
+[2026-04-01 13:00:10] Users Saved
+[2026-04-01 13:00:10] User Added - saloni
+[2026-04-01 13:00:10] Signup Success - saloni
+[2026-04-01 13:00:49] Login Selected
+[2026-04-01 13:01:01] Users Read
+[2026-04-01 13:01:01] Login Success - saloni (staff)
+[2026-04-01 13:01:01] Login Success - saloni
+[2026-04-01 13:01:01] Staff Dashboard Opened
+[2026-04-01 13:01:01] Staff Dashboard Opened
+[2026-04-01 13:01:19] Staff Clicked View Menu
+[2026-04-01 13:01:19] View Menu Opened
+[2026-04-01 13:01:19] Menu Read
+[2026-04-01 13:01:19] Menu Viewed Successfully
+[2026-04-01 13:03:00] Staff Clicked Take Order
+[2026-04-01 13:03:00] Menu Read
+[2026-04-01 13:03:29] Invalid Quantity Range
+[2026-04-01 13:04:01] Order Added - Chicken Curry Qty 5 full
+[2026-04-01 13:05:01] Order Added - Palak Paneer Qty 1 full
+[2026-04-01 13:05:45] Order Added - Jeera Rice Qty 4 full
+[2026-04-01 13:05:50] Orders Read
+[2026-04-01 13:05:50] Orders Saved
+[2026-04-01 13:05:50] Order Added
+[2026-04-01 13:05:50] Order Saved Successfully
+[2026-04-01 13:05:57] Staff Clicked View Orders
+[2026-04-01 13:05:57] Orders Read
+[2026-04-01 13:05:57] View Orders Opened
+[2026-04-01 13:05:57] Orders Viewed Successfully
+[2026-04-01 13:06:15] Staff Clicked Table Booking
+[2026-04-01 13:23:21] Staff Clicked Generate Bill
+[2026-04-01 13:23:21] Orders Read
+[2026-04-01 13:23:39] Bill Generated - Bill No 3247 Table 2 Total ₹2461.0 Payment Cash
+[2026-04-01 13:23:39] Bills Read
+[2026-04-01 13:23:39] Bills Saved
+[2026-04-01 13:23:39] Bill Added - 3247
+[2026-04-01 13:23:39] Bill Saved - 3247
+[2026-04-01 13:23:41] Staff Logout
+[2026-04-01 13:23:43] System Exit
+[2026-04-02 09:37:52] System Started
+[2026-04-02 09:37:55] Login Selected
+[2026-04-02 09:38:05] Users Read
+[2026-04-02 09:38:05] Login Failed - saloni123
+[2026-04-02 09:38:05] Login Failed
+[2026-04-02 09:38:07] Login Selected
+[2026-04-02 09:38:13] Users Read
+[2026-04-02 09:38:13] Login Failed - saloni
+[2026-04-02 09:38:13] Login Failed
+[2026-04-02 09:38:29] Login Selected
+[2026-04-02 09:38:39] Users Read
+[2026-04-02 09:38:39] Login Success - saloni (staff)
+[2026-04-02 09:38:39] Login Success - saloni
+[2026-04-02 09:38:39] Staff Dashboard Opened
+[2026-04-02 09:38:39] Staff Dashboard Opened
+[2026-04-02 09:38:43] Staff Clicked View Menu
+[2026-04-02 09:38:43] View Menu Opened
+[2026-04-02 09:38:43] Menu Read
+[2026-04-02 09:38:43] Menu Viewed Successfully
+[2026-04-02 09:38:49] Staff Clicked Search Item
+[2026-04-02 09:38:49] Menu Read
+[2026-04-02 09:38:59] Category Search - rice
+[2026-04-02 09:39:14] Staff Clicked Table Booking
+[2026-04-02 09:40:08] System Started
+[2026-04-02 09:40:09] Login Selected
+[2026-04-02 09:40:16] Users Read
+[2026-04-02 09:40:16] Login Success - shajiya (admin)
+[2026-04-02 09:40:16] Login Success - shajiya
+[2026-04-02 09:40:16] Admin Dashboard Opened
+[2026-04-02 09:40:16] Admin Dashboard Opened
+[2026-04-02 09:40:18] Admin Clicked View Menu
+[2026-04-02 09:40:18] View Menu Opened
+[2026-04-02 09:40:18] Menu Read
+[2026-04-02 09:40:18] Menu Viewed Successfully
+[2026-04-02 09:40:32] Admin Clicked Sales Report
+[2026-04-02 09:40:32] Sales Report Opened
+[2026-04-02 09:40:32] Bills Read
+[2026-04-02 09:40:32] Sales Report Generated - Total ₹460004255.0
+[2026-04-02 09:48:24] System Started
+[2026-04-02 09:48:26] Login Selected
+[2026-04-02 09:48:33] Users Read
+[2026-04-02 09:48:33] Login Success - saloni (staff)
+[2026-04-02 09:48:33] Login Success - saloni
+[2026-04-02 09:48:33] Staff Dashboard Opened
+[2026-04-02 09:48:33] Staff Dashboard Opened
+[2026-04-02 09:48:37] Staff Clicked View Menu
+[2026-04-02 09:48:37] View Menu Opened
+[2026-04-02 09:48:37] Menu Read
+[2026-04-02 09:48:37] Menu Viewed Successfully
+[2026-04-02 09:48:39] Staff Clicked Search Item
+[2026-04-02 09:48:39] Menu Read
+[2026-04-02 09:48:43] Category Search - rice
+[2026-04-02 09:49:02] Staff Clicked Take Order
+[2026-04-02 09:49:02] Menu Read
+[2026-04-02 09:49:13] Order Added - Jeera Rice Qty 2 full
+[2026-04-02 09:49:21] Order Added - Mutton Biryani Qty 3 full
+[2026-04-02 09:49:22] Orders Read
+[2026-04-02 09:49:22] Orders Saved
+[2026-04-02 09:49:22] Order Added
+[2026-04-02 09:49:22] Order Saved Successfully
+[2026-04-02 09:49:26] Staff Clicked View Orders
+[2026-04-02 09:49:26] Orders Read
+[2026-04-02 09:49:26] View Orders Opened
+[2026-04-02 09:49:26] Orders Viewed Successfully
+[2026-04-02 09:49:50] Staff Clicked Table Booking
+[2026-04-02 09:49:50] Tables Read
+[2026-04-02 09:51:42] Staff Clicked Table Booking
+[2026-04-02 09:51:42] Tables Read
+[2026-04-02 09:51:58] Tables Read
+[2026-04-02 09:51:58] Tables Saved
+[2026-04-02 09:51:58] Table Booked - 2
+[2026-04-02 09:51:58] Table Booked - 2
+[2026-04-02 09:52:05] Staff Clicked Generate Bill
+[2026-04-02 09:52:05] Orders Read
+[2026-04-02 09:52:21] Bill Generated - Bill No 6034 Table 2 Total ₹1552.5 Payment Cash
+[2026-04-02 09:52:21] Bills Read
+[2026-04-02 09:52:21] Bills Saved
+[2026-04-02 09:52:21] Bill Added - 6034
+[2026-04-02 09:52:21] Bill Saved - 6034
+[2026-04-02 09:53:33] Staff Entered Invalid Choice
+[2026-04-02 09:53:37] Staff Logout
+[2026-04-02 09:53:39] System Exit
+[2026-04-02 11:34:41] System Started
+[2026-04-02 11:34:44] Login Selected
+[2026-04-02 11:34:52] Users Read
+[2026-04-02 11:34:52] Login Success - saloni (staff)
+[2026-04-02 11:34:52] Login Success - saloni
+[2026-04-02 11:34:52] Staff Dashboard Opened
+[2026-04-02 11:34:52] Staff Dashboard Opened
+[2026-04-02 11:35:34] Staff Clicked View Menu
+[2026-04-02 11:35:34] View Menu Opened
+[2026-04-02 11:35:34] Menu Read
+[2026-04-02 11:35:34] Menu Viewed Successfully
+[2026-04-02 11:36:18] Staff Clicked Search Item
+[2026-04-02 11:36:18] Menu Read
+[2026-04-02 11:36:21] Category Search - rice
+[2026-04-02 11:36:29] Staff Clicked Take Order
+[2026-04-02 11:36:29] Menu Read
+[2026-04-02 11:36:40] Order Added - Jeera Rice Qty 2 full
+[2026-04-02 11:36:41] Orders Read
+[2026-04-02 11:36:41] Orders Saved
+[2026-04-02 11:36:41] Order Added
+[2026-04-02 11:36:41] Order Saved Successfully
+[2026-04-02 11:36:56] Staff Clicked View Orders
+[2026-04-02 11:36:56] Orders Read
+[2026-04-02 11:36:56] View Orders Opened
+[2026-04-02 11:36:56] Orders Viewed Successfully
+[2026-04-02 11:37:09] Staff Clicked Table Booking
+[2026-04-02 11:37:09] Tables Read
+[2026-04-02 11:38:28] Tables Read
+[2026-04-02 11:38:28] Tables Saved
+[2026-04-02 11:38:28] Table Booked - 4
+[2026-04-02 11:38:28] Table Booked - 4
+[2026-04-02 11:38:37] Staff Clicked View Orders
+[2026-04-02 11:38:37] Orders Read
+[2026-04-02 11:38:37] View Orders Opened
+[2026-04-02 11:38:37] Orders Viewed Successfully
+[2026-04-02 11:38:40] Staff Clicked Table Booking
+[2026-04-02 11:38:40] Tables Read
+[2026-04-02 11:39:18] Staff Clicked Generate Bill
+[2026-04-02 11:39:18] Orders Read
+[2026-04-02 11:39:35] Bill Generated - Bill No 9914 Table 2 Total ₹345.0 Payment Cash
+[2026-04-02 11:39:35] Bills Read
+[2026-04-02 11:39:35] Bills Saved
+[2026-04-02 11:39:35] Bill Added - 9914
+[2026-04-02 11:39:35] Bill Saved - 9914
+[2026-04-02 11:39:41] Staff Logout
+[2026-04-02 11:39:43] System Exit
+[2026-04-02 11:45:15] System Started
+[2026-04-02 11:45:17] Login Selected
+[2026-04-02 11:45:27] Users Read
+[2026-04-02 11:45:27] Login Failed - saloni
+[2026-04-02 11:45:27] Login Failed
+[2026-04-02 11:45:30] Login Selected
+[2026-04-02 11:45:37] Users Read
+[2026-04-02 11:45:37] Login Success - saloni (staff)
+[2026-04-02 11:45:37] Login Success - saloni
+[2026-04-02 11:45:37] Staff Dashboard Opened
+[2026-04-02 11:45:37] Staff Dashboard Opened
+[2026-04-02 11:45:40] Staff Clicked View Menu
+[2026-04-02 11:45:40] View Menu Opened
+[2026-04-02 11:45:40] Menu Read
+[2026-04-02 11:45:40] Menu Viewed Successfully
+[2026-04-02 11:45:42] Staff Clicked Search Item
+[2026-04-02 11:45:42] Menu Read
+[2026-04-02 11:45:49] Search Failed - roti
+[2026-04-02 11:45:57] Staff Clicked Search Item
+[2026-04-02 11:45:57] Menu Read
+[2026-04-02 11:46:00] Search Failed - bread
+[2026-04-02 11:46:08] Staff Clicked Search Item
+[2026-04-02 11:46:08] Menu Read
+[2026-04-02 11:46:11] Category Search - breads
+[2026-04-02 11:46:57] Staff Clicked Table Booking
+[2026-04-02 11:46:57] Tables Read
+[2026-04-02 11:47:06] Staff Logout
+[2026-04-02 11:47:09] System Exit
+[2026-04-02 12:04:05] System Started
+[2026-04-02 12:04:09] Login Selected
+[2026-04-02 12:04:15] Users Read
+[2026-04-02 12:04:15] Login Success - saloni (staff)
+[2026-04-02 12:04:15] Login Success - saloni
+[2026-04-02 12:04:15] Staff Dashboard Opened
+[2026-04-02 12:04:15] Staff Dashboard Opened
+[2026-04-02 12:04:18] Staff Clicked View Menu
+[2026-04-02 12:04:18] View Menu Opened
+[2026-04-02 12:04:18] Menu Read
+[2026-04-02 12:04:18] Menu Viewed Successfully
+[2026-04-02 12:04:23] Staff Clicked Search Item
+[2026-04-02 12:04:23] Menu Read
+[2026-04-02 12:04:26] Category Search - breads
+[2026-04-02 12:04:33] Staff Clicked Table Booking
+[2026-04-02 12:04:33] Tables Read
+[2026-04-02 12:05:34] Tables Read
+[2026-04-02 12:05:34] Tables Saved
+[2026-04-02 12:05:34] Table Booked - 2
+[2026-04-02 12:05:34] Table Booked - 2
+[2026-04-02 12:05:45] Staff Logout
+[2026-04-02 12:05:47] System Exit
+[2026-04-02 12:10:31] System Started
+[2026-04-02 12:10:33] Login Selected
+[2026-04-02 12:10:39] Users Read
+[2026-04-02 12:10:39] Login Success - shajiya (admin)
+[2026-04-02 12:10:39] Login Success - shajiya
+[2026-04-02 12:10:39] Admin Dashboard Opened
+[2026-04-02 12:10:39] Admin Dashboard Opened
+[2026-04-02 12:10:40] Admin Clicked View Menu
+[2026-04-02 12:10:40] View Menu Opened
+[2026-04-02 12:10:40] Menu Read
+[2026-04-02 12:10:40] Menu Viewed Successfully
+[2026-04-02 12:10:42] Admin Clicked Add Item
+[2026-04-02 12:10:42] Add Item Opened
+[2026-04-02 12:10:42] Menu Read
+[2026-04-02 12:11:10] Menu Saved
+[2026-04-02 12:11:10] Item Added - warp roll ID 66 Category 66
+[2026-04-02 12:11:21] Admin Clicked Update Item
+[2026-04-02 12:11:21] Update Item Opened
+[2026-04-02 12:11:21] Menu Read
+[2026-04-02 12:11:25] Item Found For Update - ID 66
+[2026-04-02 12:11:47] Item Updated - ID 66 Name hot dog
+[2026-04-02 12:11:47] Menu Saved
+[2026-04-02 12:11:51] Admin Clicked View Menu
+[2026-04-02 12:11:51] View Menu Opened
+[2026-04-02 12:11:51] Menu Read
+[2026-04-02 12:11:51] Menu Viewed Successfully
+[2026-04-02 12:12:00] Admin Clicked Delete Item
+[2026-04-02 12:12:00] Delete Item Opened
+[2026-04-02 12:12:00] Menu Read
+[2026-04-02 12:12:04] Item Deleted - ID 66 Category 66
+[2026-04-02 12:12:04] Menu Saved
+[2026-04-02 12:12:06] Admin Clicked View Menu
+[2026-04-02 12:12:06] View Menu Opened
+[2026-04-02 12:12:06] Menu Read
+[2026-04-02 12:12:06] Menu Viewed Successfully
+[2026-04-02 12:12:10] Admin Clicked Sales Report
+[2026-04-02 12:12:10] Sales Report Opened
+[2026-04-02 12:12:10] Bills Read
+[2026-04-02 12:12:10] Sales Report Generated - Total ₹1897.5
+[2026-04-02 12:12:40] Admin Logout
+[2026-04-02 12:12:42] System Exit
+[2026-04-02 12:16:29] System Started
+[2026-04-02 12:16:31] Login Selected
+[2026-04-02 12:16:36] Users Read
+[2026-04-02 12:16:36] Login Success - saloni (staff)
+[2026-04-02 12:16:36] Login Success - saloni
+[2026-04-02 12:16:36] Staff Dashboard Opened
+[2026-04-02 12:16:36] Staff Dashboard Opened
+[2026-04-02 12:16:40] Staff Clicked Table Booking
+[2026-04-02 12:16:40] Tables Read
+[2026-04-02 12:16:52] Staff Logout
+[2026-04-02 12:16:54] System Exit
+[2026-04-02 12:28:41] System Started
+[2026-04-02 12:28:43] Login Selected
+[2026-04-02 12:28:51] Users Read
+[2026-04-02 12:28:51] Login Success - saloni (staff)
+[2026-04-02 12:28:51] Login Success - saloni
+[2026-04-02 12:28:51] Staff Dashboard Opened
+[2026-04-02 12:28:51] Staff Dashboard Opened
+[2026-04-02 12:28:53] Staff Clicked View Menu
+[2026-04-02 12:28:53] View Menu Opened
+[2026-04-02 12:28:53] Menu Read
+[2026-04-02 12:28:53] Menu Viewed Successfully
+[2026-04-02 12:28:58] Staff Clicked Take Order
+[2026-04-02 12:28:58] Menu Read
+[2026-04-02 12:29:04] Order Added - Chilli Garlic Noodles Qty 2 full
+[2026-04-02 12:29:11] Order Added - spring roll Qty 4 full
+[2026-04-02 12:29:13] Orders Read
+[2026-04-02 12:29:13] Orders Saved
+[2026-04-02 12:29:13] Order Added
+[2026-04-02 12:29:13] Order Saved Successfully
+[2026-04-02 12:29:16] Staff Clicked Generate Bill
+[2026-04-02 12:29:16] Orders Read
+[2026-04-02 12:40:16] Bill Generated - Bill No 8009 Table 2 Total ₹1242.0 Payment UPI
+[2026-04-02 12:40:16] Bills Read
+[2026-04-02 12:40:16] Bills Saved
+[2026-04-02 12:40:16] Bill Added - 8009
+[2026-04-02 12:40:16] Bill Saved - 8009
+[2026-04-02 12:40:26] Staff Logout
+[2026-04-02 12:40:30] System Exit
+[2026-04-02 12:41:03] System Started
+[2026-04-02 12:41:05] System Exit
+[2026-04-02 13:14:00] System Started
+[2026-04-02 13:14:05] Login Selected
+[2026-04-02 13:14:10] Users Read
+[2026-04-02 13:14:10] Login Success - saloni (staff)
+[2026-04-02 13:14:10] Login Success - saloni
+[2026-04-02 13:14:10] Staff Dashboard Opened
+[2026-04-02 13:14:10] Staff Dashboard Opened
+[2026-04-02 13:14:18] Staff Clicked View Menu
+[2026-04-02 13:14:18] View Menu Opened
+[2026-04-02 13:14:18] Menu Read
+[2026-04-02 13:14:18] Menu Viewed Successfully
+[2026-04-02 13:14:24] Staff Clicked Search Item
+[2026-04-02 13:14:24] Menu Read
+[2026-04-02 13:14:29] Category Search - rice
+[2026-04-02 13:14:31] Staff Clicked Take Order
+[2026-04-02 13:14:31] Menu Read
+[2026-04-02 13:14:48] Invalid Size Selected
+[2026-04-02 13:14:48] Item Not Found - ID 41
+[2026-04-02 13:15:08] Invalid Item ID entered
+[2026-04-02 13:15:20] No Order Placed
+[2026-04-02 13:15:23] Staff Clicked Search Item
+[2026-04-02 13:15:23] Menu Read
+[2026-04-02 13:15:28] Search Failed - 123456
+[2026-04-02 13:15:37] Staff Clicked Search Item
+[2026-04-02 13:15:37] Menu Read
+[2026-04-02 13:15:39] Category Search - rice
+[2026-04-02 13:16:17] Staff Clicked Take Order
+[2026-04-02 13:16:17] Menu Read
+[2026-04-02 13:16:27] Invalid Quantity Range
+[2026-04-02 13:16:41] No Order Placed
+[2026-04-03 12:03:38] System Started
+[2026-04-03 12:04:08] Signup Selected
+[2026-04-03 12:04:08] Signup Opened

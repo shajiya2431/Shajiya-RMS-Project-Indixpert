@@ -1,0 +1,58 @@
+[
+    {
+        "id": "e5edc65c-928e-4393-a9ef-988c24e600dd",
+        "username": "shajiya",
+        "email": "shajiya@gmail.com",
+        "password": "shajiya123",
+        "role": "admin"
+    },
+    {
+        "id": "fad277ee-8c67-4722-9ab0-d7bf8269d64e",
+        "username": "00000",
+        "email": "s@@@@gmail.com",
+        "password": "-1-1-1",
+        "role": "staff"
+    },
+    {
+        "id": "a3e6b74d-9db7-42f0-9110-9aeb3532bdad",
+        "username": "saniya",
+        "email": "saniya@gmail.com",
+        "password": "saniya123",
+        "role": "staff"
+    },
+    {
+        "id": "28783e73-d049-4f27-9af8-44c22800c6fc",
+        "username": "dua",
+        "email": "dua@gmail.com",
+        "password": "00000000",
+        "role": "staff"
+    },
+    {
+        "id": "e4bd1c97-40fe-4530-8ead-e3a0b50cf943",
+        "username": "tahira",
+        "email": "tahira@gmail.com",
+        "password": "tahira123",
+        "role": "staff"
+    },
+    {
+        "id": "9287d41e-6e53-436e-821e-f01b59848b0a",
+        "username": "goldy",
+        "email": "goldy@gmail.com",
+        "password": "goldy123",
+        "role": "admin"
+    },
+    {
+        "id": "751a7d12-de92-4228-b27a-93b708ec8760",
+        "username": "sharmin",
+        "email": "sharmin@gmail.com",
+        "password": "sharmin786",
+        "role": "staff"
+    },
+    {
+        "id": "ac72481b-7d5c-4ca2-b19a-ce47811b4d89",
+        "username": "saloni",
+        "email": "saloni@gmail.com",
+        "password": "saloni786",
+        "role": "staff"
+    }
+]

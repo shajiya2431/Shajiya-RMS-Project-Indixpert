@@ -1,0 +1,451 @@
+{
+    "Main Course": [
+        {
+            "id": 1,
+            "name": "Paneer Butter Masala",
+            "half": 120,
+            "full": 220,
+            "type": "double"
+        },
+        {
+            "id": 2,
+            "name": "Kadhai Paneer",
+            "half": 130,
+            "full": 250,
+            "type": "double"
+        },
+        {
+            "id": 3,
+            "name": "Shahi Paneer",
+            "half": 140,
+            "full": 260,
+            "type": "double"
+        },
+        {
+            "id": 4,
+            "name": "Dal Tadka",
+            "half": 100,
+            "full": 180,
+            "type": "double"
+        },
+        {
+            "id": 5,
+            "name": "Dal Makhani",
+            "half": 120,
+            "full": 200,
+            "type": "double"
+        },
+        {
+            "id": 6,
+            "name": "Mix Veg",
+            "half": 110,
+            "full": 190,
+            "type": "double"
+        },
+        {
+            "id": 7,
+            "name": "Chicken Curry",
+            "half": 140,
+            "full": 260,
+            "type": "double"
+        },
+        {
+            "id": 8,
+            "name": "Butter Chicken",
+            "half": 160,
+            "full": 300,
+            "type": "double"
+        },
+        {
+            "id": 9,
+            "name": "Mutton Curry",
+            "half": 180,
+            "full": 340,
+            "type": "double"
+        },
+        {
+            "id": 10,
+            "name": "Egg Curry",
+            "half": 120,
+            "full": 220,
+            "type": "double"
+        },
+        {
+            "id": 11,
+            "name": "Palak Paneer",
+            "half": 130,
+            "full": 240,
+            "type": "double"
+        },
+        {
+            "id": 12,
+            "name": "Paneer Lababdar",
+            "half": 140,
+            "full": 260,
+            "type": "double"
+        },
+        {
+            "id": 13,
+            "name": "Chicken Masala",
+            "half": 150,
+            "full": 280,
+            "type": "double"
+        },
+        {
+            "id": 14,
+            "name": "Mutter Paneer",
+            "half": 120,
+            "full": 220,
+            "type": "double"
+        },
+        {
+            "id": 15,
+            "name": "Aloo Gobi",
+            "half": 100,
+            "full": 180,
+            "type": "double"
+        }
+    ],
+    "Fast Food": [
+        {
+            "id": 16,
+            "name": "Burger",
+            "half": 80,
+            "full": 140,
+            "type": "double"
+        },
+        {
+            "id": 17,
+            "name": "Pizza",
+            "half": 150,
+            "full": 300,
+            "type": "double"
+        },
+        {
+            "id": 18,
+            "name": "Chowmein",
+            "half": 90,
+            "full": 160,
+            "type": "double"
+        },
+        {
+            "id": 19,
+            "name": "Fried Rice",
+            "half": 100,
+            "full": 180,
+            "type": "double"
+        },
+        {
+            "id": 20,
+            "name": "Veg Roll",
+            "half": 70,
+            "full": 130,
+            "type": "double"
+        },
+        {
+            "id": 21,
+            "name": "Chicken Roll",
+            "half": 90,
+            "full": 160,
+            "type": "double"
+        },
+        {
+            "id": 22,
+            "name": "Sandwich",
+            "half": 80,
+            "full": 150,
+            "type": "double"
+        },
+        {
+            "id": 23,
+            "name": "French Fries",
+            "half": 60,
+            "full": 120,
+            "type": "double"
+        },
+        {
+            "id": 24,
+            "name": "Momos",
+            "half": 70,
+            "full": 130,
+            "type": "double"
+        },
+        {
+            "id": 25,
+            "name": "Pasta",
+            "half": 110,
+            "full": 200,
+            "type": "double"
+        }
+    ],
+    "Starter": [
+        {
+            "id": 26,
+            "name": "Manchurian",
+            "half": 110,
+            "full": 200,
+            "type": "double"
+        },
+        {
+            "id": 27,
+            "name": "Spring Roll",
+            "half": 90,
+            "full": 170,
+            "type": "double"
+        },
+        {
+            "id": 28,
+            "name": "Paneer Tikka",
+            "half": 150,
+            "full": 280,
+            "type": "double"
+        },
+        {
+            "id": 29,
+            "name": "Chicken Tikka",
+            "half": 170,
+            "full": 320,
+            "type": "double"
+        },
+        {
+            "id": 30,
+            "name": "Fish Fry",
+            "half": 140,
+            "full": 260,
+            "type": "double"
+        },
+        {
+            "id": 31,
+            "name": "Chilli Paneer",
+            "half": 120,
+            "full": 220,
+            "type": "double"
+        },
+        {
+            "id": 32,
+            "name": "Chilli Chicken",
+            "half": 140,
+            "full": 260,
+            "type": "double"
+        },
+        {
+            "id": 33,
+            "name": "Hara Bhara Kabab",
+            "half": 100,
+            "full": 180,
+            "type": "double"
+        }
+    ],
+    "Breads": [
+        {
+            "id": 34,
+            "name": "Tandoori Roti",
+            "half": 10,
+            "full": 20,
+            "type": "double"
+        },
+        {
+            "id": 35,
+            "name": "Butter Naan",
+            "half": 20,
+            "full": 40,
+            "type": "double"
+        },
+        {
+            "id": 36,
+            "name": "Garlic Naan",
+            "half": 25,
+            "full": 50,
+            "type": "double"
+        },
+        {
+            "id": 37,
+            "name": "Lachha Paratha",
+            "half": 30,
+            "full": 60,
+            "type": "double"
+        },
+        {
+            "id": 38,
+            "name": "Plain Roti",
+            "half": 8,
+            "full": 16,
+            "type": "double"
+        }
+    ],
+    "Rice": [
+        {
+            "id": 39,
+            "name": "Steam Rice",
+            "half": 60,
+            "full": 120,
+            "type": "double"
+        },
+        {
+            "id": 40,
+            "name": "Jeera Rice",
+            "half": 80,
+            "full": 150,
+            "type": "double"
+        },
+        {
+            "id": 41,
+            "name": "Veg Biryani",
+            "half": 120,
+            "full": 240,
+            "type": "double"
+        },
+        {
+            "id": 42,
+            "name": "Chicken Biryani",
+            "half": 150,
+            "full": 280,
+            "type": "double"
+        },
+        {
+            "id": 43,
+            "name": "Mutton Biryani",
+            "half": 180,
+            "full": 350,
+            "type": "double"
+        }
+    ],
+    "Beverages": [
+        {
+            "id": 44,
+            "name": "Tea",
+            "price": 20,
+            "type": "single"
+        },
+        {
+            "id": 45,
+            "name": "Coffee",
+            "price": 50,
+            "type": "single"
+        },
+        {
+            "id": 46,
+            "name": "Cold Drink",
+            "price": 40,
+            "type": "single"
+        },
+        {
+            "id": 47,
+            "name": "Lassi",
+            "price": 60,
+            "type": "single"
+        },
+        {
+            "id": 48,
+            "name": "Milkshake",
+            "price": 80,
+            "type": "single"
+        },
+        {
+            "id": 49,
+            "name": "Lemon Soda",
+            "price": 30,
+            "type": "single"
+        },
+        {
+            "id": 50,
+            "name": "Mineral Water",
+            "price": 20,
+            "type": "single"
+        }
+    ],
+    "Dessert": [
+        {
+            "id": 51,
+            "name": "Gulab Jamun",
+            "price": 50,
+            "type": "single"
+        },
+        {
+            "id": 52,
+            "name": "Ice Cream",
+            "price": 60,
+            "type": "single"
+        },
+        {
+            "id": 53,
+            "name": "Rasgulla",
+            "price": 50,
+            "type": "single"
+        },
+        {
+            "id": 54,
+            "name": "Kheer",
+            "price": 70,
+            "type": "single"
+        },
+        {
+            "id": 55,
+            "name": "Brownie",
+            "price": 90,
+            "type": "single"
+        }
+    ],
+    "South Indian": [
+        {
+            "id": 56,
+            "name": "Plain Dosa",
+            "half": 60,
+            "full": 120,
+            "type": "double"
+        },
+        {
+            "id": 57,
+            "name": "Masala Dosa",
+            "half": 80,
+            "full": 150,
+            "type": "double"
+        },
+        {
+            "id": 58,
+            "name": "Idli",
+            "half": 40,
+            "full": 80,
+            "type": "double"
+        },
+        {
+            "id": 59,
+            "name": "Uttapam",
+            "half": 70,
+            "full": 130,
+            "type": "double"
+        }
+    ],
+    "Chinese": [
+        {
+            "id": 60,
+            "name": "Hakka Noodles",
+            "half": 100,
+            "full": 180,
+            "type": "double"
+        },
+        {
+            "id": 61,
+            "name": "Schezwan Rice",
+            "half": 110,
+            "full": 200,
+            "type": "double"
+        },
+        {
+            "id": 62,
+            "name": "Chilli Garlic Noodles",
+            "half": 120,
+            "full": 220,
+            "type": "double"
+        }
+    ],
+    "CHINES": [
+        {
+            "id": 65,
+            "name": "spring roll",
+            "type": "double",
+            "half": 80,
+            "full": 160
+        }
+    ]
+}

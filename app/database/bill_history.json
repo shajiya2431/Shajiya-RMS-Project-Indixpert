@@ -1,0 +1,26 @@
+[
+    {
+        "bill_no": 6034,
+        "table": "2",
+        "date": "02-04-2026",
+        "time": "09:52:11",
+        "total": 1552.5,
+        "payment": "Cash"
+    },
+    {
+        "bill_no": 9914,
+        "table": "2",
+        "date": "02-04-2026",
+        "time": "11:39:28",
+        "total": 345.0,
+        "payment": "Cash"
+    },
+    {
+        "bill_no": 8009,
+        "table": "2",
+        "date": "02-04-2026",
+        "time": "12:29:24",
+        "total": 1242.0,
+        "payment": "UPI"
+    }
+]
