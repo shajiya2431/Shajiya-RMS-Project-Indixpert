@@ -14,5 +14,13 @@
         "time": "11:39:28",
         "total": 345.0,
         "payment": "Cash"
+    },
+    {
+        "bill_no": 8009,
+        "table": "2",
+        "date": "02-04-2026",
+        "time": "12:29:24",
+        "total": 1242.0,
+        "payment": "UPI"
     }
 ]

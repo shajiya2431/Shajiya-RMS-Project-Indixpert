@@ -29,7 +29,7 @@ class AdminDashboard:
             print("6. Sales Report")
             print("7. Logout")
 
-            choice = input("Enter Choice: ")
+            choice = input("\nEnter Choice: ")
 
             if choice == "1":
                 Logger.log("Admin Clicked View Menu")

@@ -28,7 +28,7 @@ class StaffDashboard:
             print("6. Generate Bill")
             print("7. Logout")
 
-            choice = input("Enter Choice: ")
+            choice = input("\nEnter Choice: ")
 
             if choice == "1":
                 Logger.log("Staff Clicked View Menu")

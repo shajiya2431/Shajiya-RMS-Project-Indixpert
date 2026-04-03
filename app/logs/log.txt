@@ -956,3 +956,77 @@
 [2026-04-02 12:12:10] Sales Report Generated - Total ₹1897.5
 [2026-04-02 12:12:40] Admin Logout
 [2026-04-02 12:12:42] System Exit
+[2026-04-02 12:16:29] System Started
+[2026-04-02 12:16:31] Login Selected
+[2026-04-02 12:16:36] Users Read
+[2026-04-02 12:16:36] Login Success - saloni (staff)
+[2026-04-02 12:16:36] Login Success - saloni
+[2026-04-02 12:16:36] Staff Dashboard Opened
+[2026-04-02 12:16:36] Staff Dashboard Opened
+[2026-04-02 12:16:40] Staff Clicked Table Booking
+[2026-04-02 12:16:40] Tables Read
+[2026-04-02 12:16:52] Staff Logout
+[2026-04-02 12:16:54] System Exit
+[2026-04-02 12:28:41] System Started
+[2026-04-02 12:28:43] Login Selected
+[2026-04-02 12:28:51] Users Read
+[2026-04-02 12:28:51] Login Success - saloni (staff)
+[2026-04-02 12:28:51] Login Success - saloni
+[2026-04-02 12:28:51] Staff Dashboard Opened
+[2026-04-02 12:28:51] Staff Dashboard Opened
+[2026-04-02 12:28:53] Staff Clicked View Menu
+[2026-04-02 12:28:53] View Menu Opened
+[2026-04-02 12:28:53] Menu Read
+[2026-04-02 12:28:53] Menu Viewed Successfully
+[2026-04-02 12:28:58] Staff Clicked Take Order
+[2026-04-02 12:28:58] Menu Read
+[2026-04-02 12:29:04] Order Added - Chilli Garlic Noodles Qty 2 full
+[2026-04-02 12:29:11] Order Added - spring roll Qty 4 full
+[2026-04-02 12:29:13] Orders Read
+[2026-04-02 12:29:13] Orders Saved
+[2026-04-02 12:29:13] Order Added
+[2026-04-02 12:29:13] Order Saved Successfully
+[2026-04-02 12:29:16] Staff Clicked Generate Bill
+[2026-04-02 12:29:16] Orders Read
+[2026-04-02 12:40:16] Bill Generated - Bill No 8009 Table 2 Total ₹1242.0 Payment UPI
+[2026-04-02 12:40:16] Bills Read
+[2026-04-02 12:40:16] Bills Saved
+[2026-04-02 12:40:16] Bill Added - 8009
+[2026-04-02 12:40:16] Bill Saved - 8009
+[2026-04-02 12:40:26] Staff Logout
+[2026-04-02 12:40:30] System Exit
+[2026-04-02 12:41:03] System Started
+[2026-04-02 12:41:05] System Exit
+[2026-04-02 13:14:00] System Started
+[2026-04-02 13:14:05] Login Selected
+[2026-04-02 13:14:10] Users Read
+[2026-04-02 13:14:10] Login Success - saloni (staff)
+[2026-04-02 13:14:10] Login Success - saloni
+[2026-04-02 13:14:10] Staff Dashboard Opened
+[2026-04-02 13:14:10] Staff Dashboard Opened
+[2026-04-02 13:14:18] Staff Clicked View Menu
+[2026-04-02 13:14:18] View Menu Opened
+[2026-04-02 13:14:18] Menu Read
+[2026-04-02 13:14:18] Menu Viewed Successfully
+[2026-04-02 13:14:24] Staff Clicked Search Item
+[2026-04-02 13:14:24] Menu Read
+[2026-04-02 13:14:29] Category Search - rice
+[2026-04-02 13:14:31] Staff Clicked Take Order
+[2026-04-02 13:14:31] Menu Read
+[2026-04-02 13:14:48] Invalid Size Selected
+[2026-04-02 13:14:48] Item Not Found - ID 41
+[2026-04-02 13:15:08] Invalid Item ID entered
+[2026-04-02 13:15:20] No Order Placed
+[2026-04-02 13:15:23] Staff Clicked Search Item
+[2026-04-02 13:15:23] Menu Read
+[2026-04-02 13:15:28] Search Failed - 123456
+[2026-04-02 13:15:37] Staff Clicked Search Item
+[2026-04-02 13:15:37] Menu Read
+[2026-04-02 13:15:39] Category Search - rice
+[2026-04-02 13:16:17] Staff Clicked Take Order
+[2026-04-02 13:16:17] Menu Read
+[2026-04-02 13:16:27] Invalid Quantity Range
+[2026-04-02 13:16:41] No Order Placed
+[2026-04-03 12:03:38] System Started
+[2026-04-03 12:04:08] Signup Selected
+[2026-04-03 12:04:08] Signup Opened

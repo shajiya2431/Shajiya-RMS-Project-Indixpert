@@ -23,5 +23,21 @@
             "price": 150,
             "total": 300
         }
+    ],
+    [
+        {
+            "name": "Chilli Garlic Noodles",
+            "qty": 2,
+            "size": "full",
+            "price": 220,
+            "total": 440
+        },
+        {
+            "name": "spring roll",
+            "qty": 4,
+            "size": "full",
+            "price": 160,
+            "total": 640
+        }
     ]
 ]
